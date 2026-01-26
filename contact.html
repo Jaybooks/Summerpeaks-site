@@ -5,7 +5,7 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
 <title>Contact | Summer Peaks Bookkeeping</title>
-<meta content="Contact Summer Peaks Bookkeeping for bookkeeping, cleanup, and support." name="description"/>
+<meta content="Contact Summer Peaks Bookkeeping for bookkeeping, cleanup, and accounting software support." name="description"/>
 <link href="logo.png" rel="icon"/>
 <link href="styles.css" rel="stylesheet"/>
 </head>
@@ -16,7 +16,7 @@
 <img alt="Summer Peaks Bookkeeping logo" class="logo-img" onerror="this.style.display='none';" src="logo.png"/>
 <div class="brand-text">
 <div class="brand-name">Summer Peaks Bookkeeping</div>
-<div class="brand-sub">Bookkeeping</div>
+<div class="brand-sub">Bookkeeping · accounting software</div>
 </div>
 </a>
 <nav aria-label="Primary" class="nav-links">
@@ -39,37 +39,37 @@
 <div class="tile">
 <h2>Send a message</h2>
 <p>
- The fastest way to get started is a short email. Include your business type, how many transactions you have per month,
- and whether you need monthly bookkeeping or cleanup.
- </p>
+              The fastest way to get started is a short email. Include your business type, how many transactions you have per month,
+              and whether you need monthly bookkeeping or cleanup.
+            </p>
 <form class="form" id="contactForm">
 <label>
- Your name
- <input id="name" placeholder="Your name" required="" type="text"/>
+                Your name
+                <input id="name" placeholder="Your name" required="" type="text"/>
 </label>
 <label>
- Your email
- <input id="email" placeholder="you@example.com" required="" type="email"/>
+                Your email
+                <input id="email" placeholder="you@example.com" required="" type="email"/>
 </label>
 <label>
- What do you need?
- <select id="service" required="">
+                What do you need?
+                <select id="service" required="">
 <option disabled="" selected="" value="">Select one</option>
 <option>Monthly bookkeeping</option>
 <option>Cleanup and catch up</option>
-<option> setup</option>
+<option>accounting software setup</option>
 <option>Not sure yet</option>
 </select>
 </label>
 <label>
- Message
- <textarea id="message" placeholder="Share any details that help me quote accurately." required="" rows="6"></textarea>
+                Message
+                <textarea id="message" placeholder="Share any details that help me quote accurately." required="" rows="6"></textarea>
 </label>
 <button class="btn" type="submit">Open email draft</button>
 <p class="fine">
- This opens your email app with a ready to send message. If it does not open, email us directly at
- <a class="link" href="mailto:jay@summerpeaks.com">jay@summerpeaks.com</a>.
- </p>
+                This opens your email app with a ready to send message. If it does not open, email us directly at
+                <a class="link" href="mailto:jay@summerpeaks.com">jay@summerpeaks.com</a>.
+              </p>
 </form>
 </div>
 <div class="tile">
@@ -83,9 +83,9 @@
 <div class="callout">
 <h3>Tip for the best quote</h3>
 <p>
- Tell us your monthly transaction count and whether you use already.
- That lets us price accurately with no surprises.
- </p>
+                Tell us your monthly transaction count and whether you use accounting software already.
+                That lets us price accurately with no surprises.
+              </p>
 </div>
 <a class="btn btn-ghost" href="services.html">Review services</a>
 </div>
@@ -97,7 +97,7 @@
 <div class="container footer-grid">
 <div>
 <div class="footer-brand">Summer Peaks Bookkeeping</div>
-<div class="footer-sub">Bookkeeping</div>
+<div class="footer-sub">Bookkeeping · accounting software</div>
 </div>
 <div class="footer-links">
 <a href="index.html">Home</a>
@@ -110,25 +110,25 @@
 </div>
 </footer>
 <script>
- document.getElementById("year").textContent = new Date().getFullYear();
+    document.getElementById("year").textContent = new Date().getFullYear();
 
- const TO_EMAIL = "jay@summerpeaks.com";
+    const TO_EMAIL = "jay@summerpeaks.com";
 
- document.getElementById("contactForm").addEventListener("submit", function(e) {
- e.preventDefault();
+    document.getElementById("contactForm").addEventListener("submit", function(e) {
+      e.preventDefault();
 
- const naus = document.getElementById("name").value.trim();
- const email = document.getElementById("email").value.trim();
- const service = document.getElementById("service").value.trim();
- const message = document.getElementById("message").value.trim();
+      const naus = document.getElementById("name").value.trim();
+      const email = document.getElementById("email").value.trim();
+      const service = document.getElementById("service").value.trim();
+      const message = document.getElementById("message").value.trim();
 
- const subject = encodeURIComponent(`New inquiry: ${service}`);
- const body = encodeURIComponent(
- `Name: ${name}\nEmail: ${email}\nService: ${service}\n\nMessage:\n${message}\n`
- );
+      const subject = encodeURIComponent(`New inquiry: ${service}`);
+      const body = encodeURIComponent(
+        `Name: ${name}\nEmail: ${email}\nService: ${service}\n\nMessage:\n${message}\n`
+      );
 
- window.location.href = `mailto:${TO_EMAIL}?subject=${subject}&body=${body}`;
- });
- </script>
+      window.location.href = `mailto:${TO_EMAIL}?subject=${subject}&body=${body}`;
+    });
+  </script>
 </body>
 </html>
