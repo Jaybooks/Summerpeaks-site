@@ -1,5 +1,5 @@
 // Replace ONLY this value after you create your free Formspree form.
-const FORMSPREE_ENDPOINT = "REPLACE_WITH_FORMSPREE_ENDPOINT";
+const FORMSPREE_ENDPOINT = "https://formspree.io/f/xjybggdv";
 
 const form = document.getElementById("assessmentForm");
 const statusEl = document.getElementById("formStatus");
