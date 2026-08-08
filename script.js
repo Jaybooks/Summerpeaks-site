@@ -24,18 +24,21 @@ form.addEventListener("submit", async (e) => {
       form.reset();
       form.classList.add("hidden");
       step2.classList.remove("hidden");
+
       step2.scrollIntoView({
         behavior: "smooth",
         block: "start"
       });
     } else {
-      const data = await response.json();
-      console.error(data);
+      const data = await response.json().catch(() => ({}));
+      console.error("Formspree error:", data);
+
       statusEl.textContent =
         "There was a problem submitting your assessment. Please try again.";
     }
   } catch (error) {
-    console.error(error);
+    console.error("Submission error:", error);
+
     statusEl.textContent =
       "There was a problem submitting your assessment. Please try again.";
   }
