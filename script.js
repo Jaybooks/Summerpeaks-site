@@ -7,7 +7,7 @@ const step2 = document.getElementById("step2");
 form.addEventListener("submit", async (e) => {
   e.preventDefault();
 
-  statusEl.textContent = "Submitting your assessment...";
+  statusEl.textContent = "Submitting your quote request...";
 
   try {
     const formData = new FormData(form);
@@ -34,12 +34,12 @@ form.addEventListener("submit", async (e) => {
       console.error("Formspree error:", data);
 
       statusEl.textContent =
-        "There was a problem submitting your assessment. Please try again.";
+        "There was a problem submitting your quote request. Please try again.";
     }
   } catch (error) {
     console.error("Submission error:", error);
 
     statusEl.textContent =
-      "There was a problem submitting your assessment. Please try again.";
+      "There was a problem submitting your quote request. Please try again.";
   }
 });
