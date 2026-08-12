@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://summerpeaks.com/sitemap.xml
