@@ -1,0 +1,27 @@
+EXPECTED GITHUB ROOT STRUCTURE
+
+CNAME
+index.html
+logo.png
+favicon.png
+styles.css
+script.js
+robots.txt
+sitemap.xml
+summit/
+  index.html
+  summit.css
+  index.js
+  articles.json
+  ARTICLE_TEMPLATE.html
+  README-ADD-ARTICLE.txt
+  articles/
+    accounting-workflow-automation.html
+    outsourced-bookkeeping-cost.html
+    bookkeeping-tasks-stop-doing-manually.html
+    accounts-receivable-process.html
+    small-business-financial-reports.html
+    business-process-automation.html
+
+Do not upload this ZIP itself to GitHub Pages.
+Extract it first, then upload the contents of the extracted folder.
