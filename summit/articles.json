@@ -1,6 +1,22 @@
 [
   {
     "num": "01",
+    "slug": "100-overlooked-business-tax-breaks",
+    "title": "100 Overlooked Tax Breaks, Deductions & Credits Businesses Should Review",
+    "category": "Accounting",
+    "read": "18 min",
+    "description": "100 business tax deductions, credits and industry-specific opportunities, including e-commerce, property management, contractors, models and creators."
+  },
+  {
+    "num": "02",
+    "slug": "property-management-accounting",
+    "title": "Property Management Accounting: Owner Reporting, Rent, Deposits & Reconciliations",
+    "category": "Accounting",
+    "read": "11 min",
+    "description": "Rent collections, owner reporting, deposits, vendor bills, reconciliations, and scalable financial workflows for property managers."
+  },
+  {
+    "num": "03",
     "slug": "ecommerce-accounting-guide",
     "title": "E-Commerce Accounting: Inventory, Marketplace Fees, Payouts & Knowing Your Real Profit",
     "category": "Accounting",
@@ -8,7 +24,7 @@
     "description": "Inventory, marketplace fees, payouts, refunds, reconciliations, cash flow, and real profitability for online sellers."
   },
   {
-    "num": "02",
+    "num": "04",
     "slug": "accounting-for-home-improvement-repair-maintenance-businesses",
     "title": "Accounting for Home Improvement, Repair & Maintenance Businesses",
     "category": "Accounting",
@@ -16,7 +32,7 @@
     "description": "Accounting support for home improvement, repair, handyman, maintenance, and home-service businesses."
   },
   {
-    "num": "03",
+    "num": "05",
     "slug": "accounting-for-marketing-agencies",
     "title": "Accounting for Marketing Agencies: A Practical Guide to Profitability, Billing & Financial Management",
     "category": "Accounting",
@@ -24,7 +40,7 @@
     "description": "How marketing and advertising agencies can improve client profitability, billing, accounts receivable, cash flow, reporting, and financial workflows."
   },
   {
-    "num": "04",
+    "num": "06",
     "slug": "sports-card-inventory-accounting-methods",
     "title": "Sports Card Inventory Accounting: How to Choose the Right Inventory Method",
     "category": "Accounting",
@@ -32,7 +48,7 @@
     "description": "How sports card dealers can choose inventory methods for singles, bulk collections, graded cards, sealed wax, and marketplace sales."
   },
   {
-    "num": "05",
+    "num": "07",
     "slug": "accounting-workflow-automation",
     "title": "How to Automate Your Accounting Workflow Without Losing Control",
     "category": "Automation",
@@ -40,7 +56,7 @@
     "description": "A practical framework for mapping, simplifying, and automating accounting workflows without sacrificing accuracy or oversight."
   },
   {
-    "num": "06",
+    "num": "08",
     "slug": "outsourced-bookkeeping-cost",
     "title": "How Much Does Outsourced Bookkeeping Really Cost?",
     "category": "Bookkeeping",
@@ -48,7 +64,7 @@
     "description": "What drives outsourced bookkeeping pricing, how to compare providers, and how to think about cost versus an internal hire."
   },
   {
-    "num": "07",
+    "num": "09",
     "slug": "bookkeeping-tasks-stop-doing-manually",
     "title": "7 Bookkeeping Tasks Small Businesses Should Stop Doing Manually",
     "category": "Bookkeeping",
@@ -56,7 +72,7 @@
     "description": "Seven repetitive bookkeeping processes that are often better standardized, streamlined, or automated."
   },
   {
-    "num": "08",
+    "num": "10",
     "slug": "accounts-receivable-process",
     "title": "Build an Accounts Receivable Process That Gets You Paid Faster",
     "category": "Accounting",
@@ -64,7 +80,7 @@
     "description": "A practical AR playbook for invoicing, payment terms, follow-up, visibility, and escalation."
   },
   {
-    "num": "09",
+    "num": "11",
     "slug": "small-business-financial-reports",
     "title": "The Financial Reports a Small Business Should Actually Review",
     "category": "Reporting",
@@ -72,7 +88,7 @@
     "description": "A practical guide to the core financial reports that help owners understand profitability, cash, receivables, and obligations."
   },
   {
-    "num": "10",
+    "num": "12",
     "slug": "business-process-automation",
     "title": "Business Process Automation: What to Automate First",
     "category": "Business Process",
