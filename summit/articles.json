@@ -1,5 +1,29 @@
 [
   {
+    "num": "18",
+    "slug": "construction-contractor-bookkeeping-job-costing",
+    "title": "Construction Bookkeeping: Job Costing, Cash Flow & WIP",
+    "category": "Accounting",
+    "read": "12 min",
+    "description": "Construction bookkeeping for contractors: job costing, work in progress, retainage, change orders, payroll, cash flow, billing and profit visibility."
+  },
+  {
+    "num": "19",
+    "slug": "restaurant-bookkeeping-food-cost-labor-cash-flow",
+    "title": "Restaurant Bookkeeping: Food Cost, Labor & Cash Flow",
+    "category": "Accounting",
+    "read": "11 min",
+    "description": "Restaurant bookkeeping for POS and delivery reconciliations, food and labor cost, inventory, payroll, sales tax, cash flow and location profitability."
+  },
+  {
+    "num": "20",
+    "slug": "13-week-cash-flow-forecast-small-business",
+    "title": "How to Build a 13-Week Cash Flow Forecast for a Small Business",
+    "category": "Reporting",
+    "read": "10 min",
+    "description": "Build a practical weekly forecast using realistic collections, payroll, vendor payments, taxes, debt, scenarios and decision triggers."
+  },
+  {
     "num": "01",
     "slug": "electrician-electrical-contractor-accounting",
     "title": "Electrician Accounting: Job Profitability, Cash Flow & Bookkeeping for Electrical Contractors",
