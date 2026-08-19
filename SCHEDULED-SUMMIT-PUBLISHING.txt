@@ -1,0 +1,8 @@
+SUMMER PEAKS AUTOMATED SUMMIT PUBLISHING
+
+Daily target: 5:00 AM Arizona time (America/Phoenix).
+Workflow runs at 12:05 UTC and publishes any due article.
+
+Important: GitHub repository Settings > Actions > General > Workflow permissions should allow Read and write permissions if the workflow cannot push.
+
+Manual test: Actions > Publish scheduled Summit article > Run workflow.
