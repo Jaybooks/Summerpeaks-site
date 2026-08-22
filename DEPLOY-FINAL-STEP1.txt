@@ -1,0 +1,51 @@
+SUMMER PEAKS — FINAL DEPLOY PACKAGE
+Generated: August 21, 2026
+
+THIS IS THE STEP 1 MASTER ZIP.
+
+WHAT WAS CLEANED
+- Removed numbered browser-upload duplicate files.
+- Removed stale duplicate JSON/CSS copies from the repository root.
+- Removed old queued “100 item” articles.
+- Preserved the 21 canonical Summit guides.
+- Preserved only the 4 curated future Summit articles.
+- Converted historic root article URLs into noindex redirects to their canonical Summit versions.
+- Rebuilt sitemap.xml from the actual canonical pages.
+- Added a branded 404 page.
+
+WHAT WAS IMPROVED
+- Restored the real GitHub Actions Summit publishing workflow.
+- Hardened the publisher so reruns are safe and already-live content does not duplicate.
+- Added a visible workflow backup folder in case the hidden .github folder is missed during browser upload.
+- Added a clearer “right-sized by design” explanation to the homepage.
+- Tightened the top conversion announcement.
+- Preserved GA4, HubSpot chatbot, assessment form, calendar CTA, Send Documents, service pages, Summit, continuity commitment and current branding.
+
+IMPORTANT: GITHUB WORKFLOW
+The automatic publisher lives at:
+.github/workflows/publish-summit.yml
+
+If GitHub browser upload does NOT show that hidden folder:
+1. Open GITHUB-WORKFLOW-BACKUP/publish-summit.yml in this package.
+2. In GitHub choose Add file -> Create new file.
+3. Name it exactly:
+   .github/workflows/publish-summit.yml
+4. Paste the backup file content and commit.
+
+Then:
+Settings -> Actions -> General -> Workflow permissions -> Read and write permissions.
+
+VERIFY AFTER DEPLOYMENT
+1. Actions shows “pages build and deployment” green.
+2. Actions shows “Publish scheduled Summit article”.
+3. Open summerpeaks.com in an incognito window.
+4. Test Book a Free Accounting Fit Call.
+5. Submit one test assessment.
+6. Open Send Documents.
+7. Open the chatbot.
+8. Open The Summit and search several topics.
+9. Open at least three articles and one service page.
+10. Confirm mobile navigation works.
+
+NEXT STEP AFTER THIS:
+Google Search Console / indexing.

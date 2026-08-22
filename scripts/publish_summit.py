@@ -1,22 +1,90 @@
+#!/usr/bin/env python3
 from pathlib import Path
 from datetime import datetime
 from zoneinfo import ZoneInfo
-import json,shutil,xml.etree.ElementTree as ET
-R=Path(__file__).resolve().parents[1];S=R/"summit";Q=S/"publish-queue.json";L=S/"articles";D=S/"scheduled";A=S/"articles.json";M=R/"sitemap.xml"
-now=datetime.now(ZoneInfo("America/Phoenix"));q=json.loads(Q.read_text());due=[];rem=[]
-for x in q:
- w=datetime.fromisoformat(x["publish_date"]+"T"+x.get("publish_time","05:00")).replace(tzinfo=ZoneInfo(x.get("timezone","America/Phoenix")));(due if now>=w else rem).append(x)
-if due:
- a=json.loads(A.read_text());known={x.get("slug") for x in a};ns="http://www.sitemaps.org/schemas/sitemap/0.9";ET.register_namespace("",ns);t=ET.parse(M);r=t.getroot();urls={e.text for e in r.findall(f".//{{{ns}}}loc")}
- for x in sorted(due,key=lambda y:y["publish_date"]):
-  src=D/(x["slug"]+".html");dst=L/(x["slug"]+".html")
-  if not src.exists():rem.append(x);continue
-  shutil.copy2(src,dst);src.unlink()
-  if x["slug"] not in known:a.insert(0,{k:x[k] for k in ("slug","title","category","read","description")});known.add(x["slug"])
-  u=f'https://summerpeaks.com/summit/articles/{x["slug"]}.html'
-  if u not in urls:
-   n=ET.SubElement(r,f"{{{ns}}}url");loc=ET.SubElement(n,f"{{{ns}}}loc");loc.text=u;lm=ET.SubElement(n,f"{{{ns}}}lastmod");lm.text=x["publish_date"];urls.add(u)
- for i,x in enumerate(a,1):x["num"]=f"{len(a)-i+1:02d}"
- A.write_text(json.dumps(a,indent=2));Q.write_text(json.dumps(rem,indent=2));t.write(M,encoding="utf-8",xml_declaration=True)
- print("Published",len(due),"article(s)")
-else:print("Nothing due")
+import json
+import shutil
+import xml.etree.ElementTree as ET
+
+ROOT = Path(__file__).resolve().parents[1]
+SUMMIT = ROOT / "summit"
+QUEUE = SUMMIT / "publish-queue.json"
+LIVE = SUMMIT / "articles"
+SCHEDULED = SUMMIT / "scheduled"
+ARTICLES = SUMMIT / "articles.json"
+SITEMAP = ROOT / "sitemap.xml"
+TZ = ZoneInfo("America/Phoenix")
+
+def load_json(path):
+    return json.loads(path.read_text(encoding="utf-8"))
+
+def main():
+    now = datetime.now(TZ)
+    queue = load_json(QUEUE)
+    due, future = [], []
+
+    for item in queue:
+        when = datetime.fromisoformat(
+            item["publish_date"] + "T" + item.get("publish_time", "05:00")
+        ).replace(tzinfo=ZoneInfo(item.get("timezone", "America/Phoenix")))
+        (due if now >= when else future).append(item)
+
+    if not due:
+        print("No scheduled Summit articles are due.")
+        return
+
+    current = load_json(ARTICLES)
+    known = {x.get("slug") for x in current}
+
+    ns = "http://www.sitemaps.org/schemas/sitemap/0.9"
+    ET.register_namespace("", ns)
+    tree = ET.parse(SITEMAP)
+    xml_root = tree.getroot()
+    urls = {e.text for e in xml_root.findall(f".//{{{ns}}}loc")}
+
+    published = []
+    unresolved = []
+
+    for item in sorted(due, key=lambda x: (x["publish_date"], x.get("publish_time", "05:00"))):
+        slug = item["slug"]
+        src = SCHEDULED / f"{slug}.html"
+        dst = LIVE / f"{slug}.html"
+
+        if not src.exists() and dst.exists():
+            # Already published, so remove it from the queue safely.
+            published.append(slug + " (already live)")
+        elif not src.exists():
+            print(f"ERROR: scheduled source missing for {slug}")
+            unresolved.append(item)
+            continue
+        else:
+            shutil.copy2(src, dst)
+            src.unlink()
+            published.append(slug)
+
+        if slug not in known:
+            current.insert(0, {k: item[k] for k in ("slug","title","category","read","description")})
+            known.add(slug)
+
+        url = f"https://summerpeaks.com/summit/articles/{slug}.html"
+        if url not in urls:
+            node = ET.SubElement(xml_root, f"{{{ns}}}url")
+            loc = ET.SubElement(node, f"{{{ns}}}loc")
+            loc.text = url
+            lastmod = ET.SubElement(node, f"{{{ns}}}lastmod")
+            lastmod.text = item["publish_date"]
+            urls.add(url)
+
+    for i, item in enumerate(current, 1):
+        item["num"] = f"{len(current)-i+1:02d}"
+
+    ARTICLES.write_text(json.dumps(current, indent=2), encoding="utf-8")
+    QUEUE.write_text(json.dumps(future + unresolved, indent=2), encoding="utf-8")
+    tree.write(SITEMAP, encoding="utf-8", xml_declaration=True)
+
+    print("Published:", ", ".join(published) if published else "none")
+    if unresolved:
+        print("Unresolved:", ", ".join(x["slug"] for x in unresolved))
+
+if __name__ == "__main__":
+    main()

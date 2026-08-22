@@ -216,3 +216,9 @@ footer{padding-bottom:105px}
 @media (max-width: 760px) {
   .commitment-points { grid-template-columns: 1fr; }
 }
+
+.right-size-note{max-width:1180px;margin:30px auto 0;padding:28px 7vw;border-left:3px solid var(--gold);display:flex;justify-content:space-between;align-items:end;gap:32px}
+.right-size-note h2{font-family:Georgia,serif;font-weight:500;font-size:clamp(30px,4vw,46px);line-height:1.08;margin:8px 0 10px}
+.right-size-note p{max-width:780px;color:var(--slate)}
+.right-size-note .text-link{white-space:nowrap}
+@media(max-width:760px){.right-size-note{display:block;margin:20px 22px 0}.right-size-note .text-link{display:inline-block;margin-top:14px}}
