@@ -1,202 +1,170 @@
 [
   {
-    "num": "25",
-    "slug": "100-financial-red-flags-business-owners-should-not-ignore",
-    "title": "100 Financial Red Flags Business Owners Should Never Ignore",
+    "slug": "financial-red-flags-profit-leaks-small-business",
+    "title": "15 Financial Red Flags That Can Quietly Drain a Small Business",
     "category": "Accounting",
-    "read": "18 min",
-    "description": "100 warning signs across cash flow, profitability, bookkeeping, payroll, debt, receivables, controls and growth."
+    "read": "14 min",
+    "description": "Fifteen financial warning signs worth an owner's attention\u2014from shrinking margin and slow collections to weak controls, cash surprises and growth that outruns the accounting system.",
+    "num": "21"
   },
   {
-    "num": "24",
-    "slug": "100-ways-small-businesses-lose-money",
-    "title": "100 Ways Small Businesses Lose Money Without Realizing It",
-    "category": "Accounting",
-    "read": "22 min",
-    "description": "A practical field guide to hidden profit leaks in pricing, billing, payroll, inventory, purchasing, cash flow, controls and operations."
+    "slug": "accounting-automation-process-improvement-guide",
+    "title": "Accounting Automation: What to Automate, What to Keep Human, and Where to Start",
+    "category": "Automation",
+    "read": "12 min",
+    "description": "A practical framework for improving accounting and administrative workflows without automating bad processes, removing controls or buying software before the problem is understood.",
+    "num": "20"
   },
   {
-    "num": "23",
-    "slug": "100-questions-business-owner-ask-accountant",
-    "title": "100 Questions Every Business Owner Should Ask Their Accountant",
-    "category": "Accounting",
-    "read": "18 min",
-    "description": "A complete owner\u2019s checklist for profitability, cash flow, bookkeeping, reporting, controls, growth, financing and financial systems."
-  },
-  {
-    "num": "22",
     "slug": "what-business-owners-need-from-accountant-accounting-system",
-    "title": "What Business Owners Need From an Accountant and Accounting System",
+    "title": "What Business Owners Should Expect From Their Accounting\u2014and 15 Questions to Test It",
     "category": "Accounting",
     "read": "12 min",
-    "description": "The practical standard owners should expect: accurate books, timely answers, cash visibility, useful reporting, controls and scalable financial workflows."
+    "description": "A practical standard for small-business accounting: accurate books, timely close, cash visibility, useful reporting, clear ownership and fifteen questions that reveal whether the system is helping.",
+    "num": "19"
   },
   {
-    "num": "21",
+    "slug": "100-overlooked-business-tax-breaks",
+    "title": "Business Tax Planning Checklist: 24 Areas Worth Reviewing",
+    "category": "Accounting",
+    "read": "13 min",
+    "description": "A practical, source-based tax planning checklist for business owners covering ordinary expenses, equipment, vehicles, home office, inventory, benefits, credits, documentation and year-end bookkeeping.",
+    "num": "18"
+  },
+  {
     "slug": "when-business-should-seek-capital-financing",
     "title": "When Should a Business Seek Capital\u2014and When Should It Not?",
     "category": "Accounting",
     "read": "12 min",
-    "description": "When financing can accelerate a sound business, when it may worsen the problem, and how to weigh debt, equity, benefits, risks and repayment capacity."
+    "description": "When financing can accelerate a sound business, when it may worsen the problem, and how to weigh debt, equity, benefits, risks and repayment capacity.",
+    "num": "17"
   },
   {
-    "num": "20",
-    "slug": "construction-contractor-bookkeeping-job-costing",
-    "title": "Construction Bookkeeping: Job Costing, Cash Flow & WIP",
-    "category": "Accounting",
-    "read": "12 min",
-    "description": "Construction bookkeeping for contractors: job costing, work in progress, retainage, change orders, payroll, cash flow, billing and profit visibility."
-  },
-  {
-    "num": "19",
-    "slug": "restaurant-bookkeeping-food-cost-labor-cash-flow",
-    "title": "Restaurant Bookkeeping: Food Cost, Labor & Cash Flow",
-    "category": "Accounting",
-    "read": "11 min",
-    "description": "Restaurant bookkeeping for POS and delivery reconciliations, food and labor cost, inventory, payroll, sales tax, cash flow and location profitability."
-  },
-  {
-    "num": "18",
     "slug": "13-week-cash-flow-forecast-small-business",
     "title": "How to Build a 13-Week Cash Flow Forecast for a Small Business",
     "category": "Reporting",
     "read": "10 min",
-    "description": "Build a practical weekly forecast using realistic collections, payroll, vendor payments, taxes, debt, scenarios and decision triggers."
+    "description": "Build a practical weekly forecast using realistic collections, payroll, vendor payments, taxes, debt, scenarios and decision triggers.",
+    "num": "16"
   },
   {
-    "num": "17",
+    "slug": "small-business-financial-reports",
+    "title": "The 8 Financial Views a Small Business Owner Should Actually Review",
+    "category": "Reporting",
+    "read": "10 min",
+    "description": "Eight practical financial views for understanding profit, cash, receivables, payables, margins, debt and performance without drowning in reports.",
+    "num": "15"
+  },
+  {
+    "slug": "accounts-receivable-process",
+    "title": "Accounts Receivable: A Practical System for Getting Paid Faster",
+    "category": "Accounting",
+    "read": "10 min",
+    "description": "A practical AR system for faster billing, lower payment friction, weekly follow-up, cash application, escalation and better visibility into what customers owe.",
+    "num": "14"
+  },
+  {
+    "slug": "eliminate-check-payments-business",
+    "title": "Accounts Payable & Payment Controls: Move Beyond Paper Checks Without Losing Control",
+    "category": "Accounting",
+    "read": "10 min",
+    "description": "A safer, faster payment workflow for AP and customer receipts using electronic payments, clear approvals, vendor verification, documentation and reconciliation.",
+    "num": "13"
+  },
+  {
+    "slug": "outsourced-bookkeeping-cost",
+    "title": "What Outsourced Bookkeeping Costs\u2014and What You Should Compare Before Hiring",
+    "category": "Bookkeeping",
+    "read": "9 min",
+    "description": "How to compare outsourced bookkeeping proposals by scope, complexity, close quality, reporting, cleanup needs and the true cost of doing the work internally.",
+    "num": "12"
+  },
+  {
+    "slug": "construction-contractor-bookkeeping-job-costing",
+    "title": "Construction Bookkeeping: Job Costing, Cash Flow & WIP",
+    "category": "Accounting",
+    "read": "12 min",
+    "description": "Construction bookkeeping for contractors: job costing, work in progress, retainage, change orders, payroll, cash flow, billing and profit visibility.",
+    "num": "11"
+  },
+  {
+    "slug": "restaurant-bookkeeping-food-cost-labor-cash-flow",
+    "title": "Restaurant Bookkeeping: Food Cost, Labor & Cash Flow",
+    "category": "Accounting",
+    "read": "11 min",
+    "description": "Restaurant bookkeeping for POS and delivery reconciliations, food and labor cost, inventory, payroll, sales tax, cash flow and location profitability.",
+    "num": "10"
+  },
+  {
     "slug": "electrician-electrical-contractor-accounting",
     "title": "Electrician Accounting: Job Profitability, Cash Flow & Bookkeeping for Electrical Contractors",
     "category": "Accounting",
     "read": "15 min",
-    "description": "Accounting and bookkeeping for electricians: job costs, labor, materials, deposits, billing, AR, equipment, cash flow and profitable growth."
+    "description": "Accounting and bookkeeping for electricians: job costs, labor, materials, deposits, billing, AR, equipment, cash flow and profitable growth.",
+    "num": "09"
   },
   {
-    "num": "16",
     "slug": "landscaping-business-accounting",
     "title": "Landscaping Business Accounting: Crews, Materials, Recurring Revenue & Job Profitability",
     "category": "Accounting",
     "read": "14 min",
-    "description": "Landscaping bookkeeping and accounting for job profitability, crews, payroll, materials, equipment, recurring maintenance, seasonal cash flow, billing and collections."
+    "description": "Landscaping bookkeeping and accounting for job profitability, crews, payroll, materials, equipment, recurring maintenance, seasonal cash flow, billing and collections.",
+    "num": "08"
   },
   {
-    "num": "15",
     "slug": "medical-dental-practice-accounting",
     "title": "Medical & Dental Practice Accounting: Build a Healthier, More Profitable Practice",
     "category": "Accounting",
     "read": "15 min",
-    "description": "Accounting and bookkeeping for medical and dental practices: collections, payroll, supplies, equipment, cash flow, reconciliations, profitability and better financial systems."
+    "description": "Accounting and bookkeeping for medical and dental practices: collections, payroll, supplies, equipment, cash flow, reconciliations, profitability and better financial systems.",
+    "num": "07"
   },
   {
-    "num": "14",
     "slug": "law-firm-accounting",
     "title": "Law Firm Accounting: Clear Books, Client Trust, and a Practice Built to Grow",
     "category": "Accounting",
     "read": "14 min",
-    "description": "A practical, human guide to law firm accounting, trust-account workflows, billing, collections, reconciliations, profitability and financial systems that give attorneys more time to practice law."
+    "description": "A practical, human guide to law firm accounting, trust-account workflows, billing, collections, reconciliations, profitability and financial systems that give attorneys more time to practice law.",
+    "num": "06"
   },
   {
-    "num": "13",
-    "slug": "eliminate-check-payments-business",
-    "title": "How to Eliminate Check Payments and Build a Faster Payment Process",
-    "category": "Automation",
-    "read": "10 min",
-    "description": "Replace incoming and outgoing business checks with ACH, online payments, digital approvals, cleaner reconciliation and smoother cash-flow workflows."
-  },
-  {
-    "num": "12",
-    "slug": "100-overlooked-business-tax-breaks",
-    "title": "100 Overlooked Tax Breaks, Deductions & Credits Businesses Should Review",
-    "category": "Accounting",
-    "read": "18 min",
-    "description": "100 business tax deductions, credits and industry-specific opportunities, including e-commerce, property management, contractors, models and creators."
-  },
-  {
-    "num": "11",
     "slug": "property-management-accounting",
     "title": "Property Management Accounting: Owner Reporting, Rent, Deposits & Reconciliations",
     "category": "Accounting",
     "read": "11 min",
-    "description": "Rent collections, owner reporting, deposits, vendor bills, reconciliations, and scalable financial workflows for property managers."
+    "description": "Rent collections, owner reporting, deposits, vendor bills, reconciliations, and scalable financial workflows for property managers.",
+    "num": "05"
   },
   {
-    "num": "10",
     "slug": "ecommerce-accounting-guide",
     "title": "E-Commerce Accounting: Inventory, Marketplace Fees, Payouts & Knowing Your Real Profit",
     "category": "Accounting",
     "read": "10 min",
-    "description": "Inventory, marketplace fees, payouts, refunds, reconciliations, cash flow, and real profitability for online sellers."
+    "description": "Inventory, marketplace fees, payouts, refunds, reconciliations, cash flow, and real profitability for online sellers.",
+    "num": "04"
   },
   {
-    "num": "09",
     "slug": "accounting-for-home-improvement-repair-maintenance-businesses",
     "title": "Accounting for Home Improvement, Repair & Maintenance Businesses",
     "category": "Accounting",
     "read": "10 min",
-    "description": "Accounting support for home improvement, repair, handyman, maintenance, and home-service businesses."
+    "description": "Accounting support for home improvement, repair, handyman, maintenance, and home-service businesses.",
+    "num": "03"
   },
   {
-    "num": "08",
     "slug": "accounting-for-marketing-agencies",
     "title": "Accounting for Marketing Agencies: A Practical Guide to Profitability, Billing & Financial Management",
     "category": "Accounting",
     "read": "10 min",
-    "description": "How marketing and advertising agencies can improve client profitability, billing, accounts receivable, cash flow, reporting, and financial workflows."
+    "description": "How marketing and advertising agencies can improve client profitability, billing, accounts receivable, cash flow, reporting, and financial workflows.",
+    "num": "02"
   },
   {
-    "num": "07",
     "slug": "sports-card-inventory-accounting-methods",
     "title": "Sports Card Inventory Accounting: How to Choose the Right Inventory Method",
     "category": "Accounting",
     "read": "11 min",
-    "description": "How sports card dealers can choose inventory methods for singles, bulk collections, graded cards, sealed wax, and marketplace sales."
-  },
-  {
-    "num": "06",
-    "slug": "accounting-workflow-automation",
-    "title": "How to Automate Your Accounting Workflow Without Losing Control",
-    "category": "Automation",
-    "read": "7 min",
-    "description": "A practical framework for mapping, simplifying, and automating accounting workflows without sacrificing accuracy or oversight."
-  },
-  {
-    "num": "05",
-    "slug": "outsourced-bookkeeping-cost",
-    "title": "How Much Does Outsourced Bookkeeping Really Cost?",
-    "category": "Bookkeeping",
-    "read": "6 min",
-    "description": "What drives outsourced bookkeeping pricing, how to compare providers, and how to think about cost versus an internal hire."
-  },
-  {
-    "num": "04",
-    "slug": "bookkeeping-tasks-stop-doing-manually",
-    "title": "7 Bookkeeping Tasks Small Businesses Should Stop Doing Manually",
-    "category": "Bookkeeping",
-    "read": "8 min",
-    "description": "Seven repetitive bookkeeping processes that are often better standardized, streamlined, or automated."
-  },
-  {
-    "num": "03",
-    "slug": "accounts-receivable-process",
-    "title": "Build an Accounts Receivable Process That Gets You Paid Faster",
-    "category": "Accounting",
-    "read": "7 min",
-    "description": "A practical AR playbook for invoicing, payment terms, follow-up, visibility, and escalation."
-  },
-  {
-    "num": "02",
-    "slug": "small-business-financial-reports",
-    "title": "The Financial Reports a Small Business Should Actually Review",
-    "category": "Reporting",
-    "read": "6 min",
-    "description": "A practical guide to the core financial reports that help owners understand profitability, cash, receivables, and obligations."
-  },
-  {
-    "num": "01",
-    "slug": "business-process-automation",
-    "title": "Business Process Automation: What to Automate First",
-    "category": "Business Process",
-    "read": "8 min",
-    "description": "How to choose the first business processes to automate based on repetition, error risk, handoffs, and measurable value."
+    "description": "How sports card dealers can choose inventory methods for singles, bulk collections, graded cards, sealed wax, and marketplace sales.",
+    "num": "01"
   }
 ]

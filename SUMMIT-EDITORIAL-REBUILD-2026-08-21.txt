@@ -1,0 +1,80 @@
+SUMMER PEAKS — THE SUMMIT EDITORIAL REBUILD
+Reviewed: August 21, 2026
+
+WHAT CHANGED
+============
+The Summit was rebuilt at the library level rather than simply copyedited article by article.
+
+Previous live library: 25 listed articles.
+New canonical live library: 21 articles.
+Previous future queue: 8 articles, all built around the “100 items” format.
+New future queue: 4 distinct, practical guides published every three days.
+
+CONSOLIDATIONS
+==============
+1. “100 Financial Red Flags...” + “100 Ways Small Businesses Lose Money...”
+   -> “15 Financial Red Flags That Can Quietly Drain a Small Business”
+   Old URLs remain as noindex redirects so existing links do not dead-end.
+
+2. “100 Questions Every Business Owner Should Ask Their Accountant”
+   -> incorporated into “What Business Owners Should Expect From Their Accounting—and 15 Questions to Test It”
+   Old URL remains as a noindex redirect.
+
+3. “How to Automate Your Accounting Workflow...” + “7 Bookkeeping Tasks...” +
+   “Business Process Automation...”
+   -> one definitive “Accounting Automation: What to Automate, What to Keep Human, and Where to Start”
+   Old URLs remain as noindex redirects.
+
+4. “100 Overlooked Tax Breaks...”
+   -> rewritten in place as “Business Tax Planning Checklist: 24 Areas Worth Reviewing”
+   The URL remains because it may already have search/link history, but the article no longer promises 100 tax breaks.
+
+MAJOR REWRITES
+==============
+- Accounts receivable article: expanded into a complete operational AR system.
+- Financial reports article: rebuilt around 8 actual owner decision views.
+- Outsourced bookkeeping cost article: rebuilt around scope, deliverables and internal-vs-outsourced comparison.
+- Payment/check article: rebuilt as AP and payment-control guidance.
+- Business-owner accounting article: now contains a clear minimum standard plus 15 diagnostic questions.
+
+INDUSTRY ARTICLE REVIEW
+=======================
+Construction, restaurants, marketing agencies, e-commerce, electricians, landscaping,
+medical/dental, law firms, property management, home services and sports-card inventory
+were retained because they have distinct operational/accounting problems. Each received
+a more specific owner-dashboard section so they do not read like the same generic article
+with a different industry name.
+
+FACT-CHECK / RISK REVIEW
+========================
+- Tax article is framed as recordkeeping/planning, not a promise of deductions.
+- Tax sources point to current IRS Publications 334, 538, 463 and 587.
+- Law-firm trust-account language points to ABA Model Rule 1.15 and explicitly notes that
+  actual jurisdictional requirements vary.
+- Payment-control guidance uses independent verification for payment-detail changes and
+  references FBI Business Email Compromise guidance.
+- Inventory/e-commerce guidance points to IRS small-business and accounting-method sources.
+- General financial-management guidance uses SBA and FDIC Money Smart references.
+- Public-facing references to QuickBooks were removed; Summer Peaks remains platform-neutral.
+
+FUTURE PUBLISHING
+=================
+The “publish every day no matter what” approach was removed. The new queue is:
+2026-08-24 — Bookkeeper vs. Accountant vs. Controller
+2026-08-27 — Month-End Close Checklist: 12 Checks
+2026-08-30 — Customer Profitability
+2026-09-02 — Monthly Accounting Rhythm for a Growing Business
+
+EDITORIAL STANDARD GOING FORWARD
+================================
+Every Summit piece must have:
+- one distinct customer/search intent;
+- original, practical information;
+- no artificial list length;
+- no filler used to hit a word count;
+- examples or implementation guidance;
+- claims that can be supported or appropriately qualified;
+- an article-specific reason Summer Peaks can help;
+- no unnecessary referral language that weakens Summer Peaks;
+- no public-facing QuickBooks positioning;
+- a real editorial reason to exist before it is scheduled.

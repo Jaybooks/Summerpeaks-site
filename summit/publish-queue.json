@@ -1,82 +1,42 @@
 [
   {
-    "publish_date": "2026-08-22",
-    "publish_time": "05:00",
-    "timezone": "America/Phoenix",
-    "slug": "100-bookkeeping-mistakes-cost-businesses-money",
-    "title": "100 Bookkeeping Mistakes That Can Cost a Business Money",
-    "category": "Bookkeeping",
-    "read": "18 min",
-    "description": "A 100-point review covering reconciliations, classification, payroll, receivables, payables, assets, liabilities and month-end discipline."
-  },
-  {
-    "publish_date": "2026-08-23",
-    "publish_time": "05:00",
-    "timezone": "America/Phoenix",
-    "slug": "100-cash-flow-improvements-small-business",
-    "title": "100 Ways to Improve Small Business Cash Flow",
-    "category": "Accounting",
-    "read": "18 min",
-    "description": "100 practical cash-flow improvements across collections, billing, payments, inventory, pricing, forecasting and financing."
-  },
-  {
     "publish_date": "2026-08-24",
     "publish_time": "05:00",
     "timezone": "America/Phoenix",
-    "slug": "100-financial-metrics-business-owners-should-understand",
-    "title": "100 Financial Metrics and Numbers Business Owners Should Understand",
-    "category": "Reporting",
-    "read": "20 min",
-    "description": "A plain-English guide to 100 financial metrics spanning profit, cash, AR, AP, payroll, inventory, debt, pricing and growth."
-  },
-  {
-    "publish_date": "2026-08-25",
-    "publish_time": "05:00",
-    "timezone": "America/Phoenix",
-    "slug": "100-accounting-automation-opportunities",
-    "title": "100 Accounting & Administrative Tasks Businesses Can Automate",
-    "category": "Automation",
-    "read": "20 min",
-    "description": "100 practical automation opportunities across bookkeeping, AP, AR, payroll, reporting, documents, approvals, CRM and administration."
-  },
-  {
-    "publish_date": "2026-08-26",
-    "publish_time": "05:00",
-    "timezone": "America/Phoenix",
-    "slug": "100-accounts-receivable-improvements",
-    "title": "100 Ways to Improve Accounts Receivable and Get Paid Faster",
+    "slug": "bookkeeper-vs-accountant-vs-controller",
+    "title": "Bookkeeper vs. Accountant vs. Controller: What Does a Growing Business Actually Need?",
     "category": "Accounting",
-    "read": "18 min",
-    "description": "100 improvements for invoicing, payment options, credit terms, follow-up, collections, reporting and AR accountability."
+    "read": "11 min",
+    "description": "How to choose the right level of financial support based on complexity, decisions, controls, reporting and owner workload."
   },
   {
     "publish_date": "2026-08-27",
     "publish_time": "05:00",
     "timezone": "America/Phoenix",
-    "slug": "100-accounts-payable-improvements",
-    "title": "100 Ways to Improve Accounts Payable and Vendor Payments",
+    "slug": "month-end-close-checklist-small-business",
+    "title": "Month-End Close Checklist: 12 Checks That Make Small-Business Financials More Trustworthy",
     "category": "Accounting",
-    "read": "18 min",
-    "description": "100 AP improvements covering vendor onboarding, approvals, documentation, payment timing, cash planning, controls and automation."
+    "read": "11 min",
+    "description": "A practical 12-step month-end close checklist for cash, receivables, payables, payroll, debt, assets, revenue, expenses and management review."
   },
   {
-    "publish_date": "2026-08-28",
+    "publish_date": "2026-08-30",
     "publish_time": "05:00",
     "timezone": "America/Phoenix",
-    "slug": "100-month-end-close-checks",
-    "title": "100 Checks for a Cleaner, Faster Month-End Close",
-    "category": "Accounting",
-    "read": "20 min",
-    "description": "A complete 100-point month-end checklist covering cash, AR, AP, payroll, assets, liabilities, revenue, expenses and reporting."
+    "slug": "customer-profitability-small-business",
+    "title": "Customer Profitability: How to Know Which Clients Are Actually Making You Money",
+    "category": "Reporting",
+    "read": "12 min",
+    "description": "A practical guide to customer profitability using revenue, direct labor, materials, contractors, service effort and disciplined treatment of shared overhead."
   },
   {
-    "publish_date": "2026-08-29",
+    "publish_date": "2026-09-02",
     "publish_time": "05:00",
     "timezone": "America/Phoenix",
-    "slug": "100-signs-business-has-outgrown-bookkeeping",
-    "title": "100 Signs Your Business Has Outgrown Basic Bookkeeping",
+    "slug": "monthly-accounting-rhythm-growing-business",
+    "title": "The Monthly Accounting Rhythm a Growing Business Should Build Before It Gets Complicated",
     "category": "Accounting",
-    "read": "18 min",
-    "description": "100 signs a growing company needs stronger accounting, reporting, cash planning, controls, workflow and management support."
+    "read": "11 min",
+    "description": "A simple monthly financial rhythm for reconciliations, billing, collections, payables, payroll, reporting, cash planning and management action."
   }
 ]
