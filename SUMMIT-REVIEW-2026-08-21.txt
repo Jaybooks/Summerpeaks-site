@@ -1,0 +1,36 @@
+SUMMER PEAKS SUMMIT REVIEW — 2026-08-21
+
+100-financial-red-flags-business-owners-should-not-ignore.html | 899 words | sources | reviewed
+100-overlooked-business-tax-breaks.html | 1294 words | sources | reviewed
+100-questions-business-owner-ask-accountant.html | 1680 words | sources | reviewed
+100-ways-small-businesses-lose-money.html | 2398 words | sources | reviewed
+13-week-cash-flow-forecast-small-business.html | 729 words | sources | reviewed
+accounting-for-home-improvement-repair-maintenance-businesses.html | 664 words | sources | reviewed
+accounting-for-marketing-agencies.html | 1050 words | sources | reviewed
+accounting-workflow-automation.html | 344 words | sources | reviewed
+accounts-receivable-process.html | 512 words | sources | reviewed
+bookkeeping-tasks-stop-doing-manually.html | 341 words | sources | reviewed
+business-process-automation.html | 309 words | sources | reviewed
+construction-contractor-bookkeeping-job-costing.html | 736 words | sources | reviewed
+ecommerce-accounting-guide.html | 646 words | sources | reviewed
+electrician-electrical-contractor-accounting.html | 1419 words | sources | reviewed
+eliminate-check-payments-business.html | 938 words | sources | reviewed
+landscaping-business-accounting.html | 1183 words | sources | reviewed
+law-firm-accounting.html | 1180 words | sources | reviewed
+medical-dental-practice-accounting.html | 1573 words | sources | reviewed
+outsourced-bookkeeping-cost.html | 367 words | sources | reviewed
+property-management-accounting.html | 983 words | sources | reviewed
+restaurant-bookkeeping-food-cost-labor-cash-flow.html | 713 words | sources | reviewed
+small-business-financial-reports.html | 371 words | sources | reviewed
+sports-card-inventory-accounting-methods.html | 1608 words | sources | reviewed
+what-business-owners-need-from-accountant-accounting-system.html | 1718 words | sources | reviewed
+when-business-should-seek-capital-financing.html | 1653 words | sources | reviewed
+
+Key corrections:
+- Updated federal tax article for WOTC expiration after 2025 hires, 2026 energy-credit termination dates, and permanent PFML credit changes.
+- Added jurisdiction-specific trust-account warning and ABA sources to law-firm accounting.
+- Grounded inventory articles in IRS Publication 334.
+- Grounded cash-flow/financing/AR material in FDIC/SBA sources.
+- Added FBI Business Email Compromise source to payment-control content.
+- Expanded short, thin articles into actionable guides.
+- Removed unnecessary CPA/tax-professional referral language and unsupported marketing claims.

@@ -1,0 +1,9 @@
+SUMMER PEAKS — DEPLOY THIS VERSION
+
+1. Extract this ZIP.
+2. Upload ALL contents to the root of the GitHub repository, including the hidden .github folder.
+3. In GitHub: Settings > Actions > General > Workflow permissions > Read and write permissions.
+4. Commit the upload.
+5. In Actions, verify both Pages deployment and Publish scheduled Summit article appear.
+6. Run Publish scheduled Summit article manually once. It should say Nothing due unless an article date has arrived.
+7. Open summerpeaks.com in an incognito window and test: homepage calendar CTA, assessment form, service pages, Summit search, chatbot, Send Documents.
