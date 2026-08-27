@@ -1,0 +1,27 @@
+SUMMER PEAKS — FINAL SUMMIT CLEANLINESS AUDIT
+Canonical articles reviewed: 21
+Broken internal links: 0
+Duplicate article titles: 0
+
+Article | Approx visible words | Adjacent duplicate sentences | Meta description
+financial-red-flags-profit-leaks-small-business.html | 1060 | 0 | yes
+accounting-automation-process-improvement-guide.html | 784 | 0 | yes
+what-business-owners-need-from-accountant-accounting-system.html | 737 | 0 | yes
+100-overlooked-business-tax-breaks.html | 875 | 0 | yes
+when-business-should-seek-capital-financing.html | 1800 | 0 | NO
+13-week-cash-flow-forecast-small-business.html | 837 | 0 | NO
+small-business-financial-reports.html | 670 | 0 | yes
+accounts-receivable-process.html | 680 | 0 | yes
+eliminate-check-payments-business.html | 568 | 0 | yes
+outsourced-bookkeeping-cost.html | 580 | 0 | yes
+construction-contractor-bookkeeping-job-costing.html | 890 | 0 | NO
+restaurant-bookkeeping-food-cost-labor-cash-flow.html | 866 | 0 | yes
+electrician-electrical-contractor-accounting.html | 1659 | 0 | yes
+landscaping-business-accounting.html | 1386 | 0 | yes
+medical-dental-practice-accounting.html | 1794 | 0 | yes
+law-firm-accounting.html | 1410 | 0 | yes
+property-management-accounting.html | 1188 | 0 | yes
+ecommerce-accounting-guide.html | 805 | 0 | yes
+accounting-for-home-improvement-repair-maintenance-businesses.html | 827 | 0 | NO
+accounting-for-marketing-agencies.html | 1256 | 0 | yes
+sports-card-inventory-accounting-methods.html | 1795 | 0 | yes

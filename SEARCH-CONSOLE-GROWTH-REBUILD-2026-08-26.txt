@@ -1,0 +1,48 @@
+SUMMER PEAKS — SEARCH CONSOLE GROWTH REBUILD
+Built from Search Console export dated 2026-08-26.
+
+SEARCH CONSOLE SIGNALS USED
+- Marketing-agency accounting page: 103 impressions, average position 72.93.
+- Law-firm accounting: 35 impressions, average position 64.49.
+- Medical/dental accounting: 31 impressions, average position 68.87.
+- Landscaping accounting: 19 impressions, average position 68.89.
+- Property-management accounting: 6 impressions, average position 47.33.
+- Sports-card inventory accounting: 3 impressions, average position 7.67.
+- E-commerce accounting: 1 impression, average position 2.
+- Restaurant accounting: 1 impression, average position 6.
+- Homepage (HTTP variant in export): 6 impressions, average position 12.
+- Search queries already include Scottsdale/Tempe bookkeeping terms, marketing-agency accounting terms, law-firm accounting, medical/dental accounting, landscaping bookkeeping, catch-up bookkeeping and accounting process automation.
+
+WHAT CHANGED
+1. Homepage repositioned toward outsourced accounting + bookkeeping commercial intent.
+2. Added visible hiring-alternative messaging for businesses considering a part-time accounting hire.
+3. Added a six-industry commercial landing-page section to the homepage.
+4. Built dedicated service landing pages for:
+   - Marketing & advertising agencies
+   - Law firms
+   - Medical & dental practices
+   - Landscaping & lawn-care businesses
+   - Property-management companies
+   - Electrical contractors
+5. Added exact-intent metadata to the highest-impression Summit articles.
+6. Added direct commercial links from those Summit articles to matching service pages.
+7. Added Service structured data to service pages.
+8. Added client-side HTTP -> HTTPS protection. IMPORTANT: Cloudflare “Always Use HTTPS” should still be enabled because a server/edge redirect is better than a client-side redirect.
+9. Rebuilt sitemap.xml around canonical pages.
+10. Removed numbered upload duplicates and turned historic root article URLs into noindex redirects.
+
+WHAT NOT TO DO
+- Do not create dozens of thin industry pages.
+- Do not go back to publishing daily filler.
+- Do not judge SEO from 3–4 days of data.
+- Do not send paid traffic to informational Summit articles.
+
+NEXT OPERATIONAL MOVES
+1. Deploy this ZIP.
+2. Cloudflare: enable Always Use HTTPS.
+3. Search Console: submit sitemap.xml again.
+4. Request indexing for homepage + six new industry landing pages.
+5. Request indexing for the marketing-agency, law-firm, medical/dental, landscaping and property-management articles.
+6. Use the matching industry pages for outbound prospecting.
+7. Build backlinks/referral mentions around the pages already earning impressions.
+8. Re-export Search Console after 7–10 days and compare impressions, average position and clicks by page/query.
