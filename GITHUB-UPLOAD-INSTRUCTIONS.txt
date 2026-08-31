@@ -19,8 +19,7 @@ IMPORTANT
 - Choose Replace when GitHub identifies matching filenames.
 - Do not delete CNAME; it connects the repository to summerpeaks.com.
 - The new homepage uses index.html and marketplace.css.
-- Card Listing Studio uses card-studio.html, card-studio.css, and card-studio.js.
-- The tool saves card records in the user's browser and exports eBay draft CSV data; it does not publish live listings.
+- Card Listing Studio is presented as in development and is not included as a public tool yet.
 - The Summit, its article pages, article data, scheduling files, and publishing workflow have been removed.
 - All six supplied logo variants are stored in assets/brand for future use.
 - Product cards are labeled by development status and do not accept payments yet.
