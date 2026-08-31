@@ -1,0 +1,28 @@
+SUMMER PEAKS DIGITAL MARKET — GITHUB UPLOAD
+
+This ZIP is a complete marketplace replacement based on your original GitHub structure. The Summit and its article/publishing files have been removed. The CNAME, marketplace, brand assets, and unrelated legacy pages remain.
+
+EASIEST UPLOAD METHOD
+
+1. Download and unzip this package.
+2. Open your existing Summer Peaks repository on GitHub.
+3. Click Add file, then Upload files.
+4. Open the Summerpeaks-site-main folder from this package.
+5. Select everything INSIDE that folder and drag it into GitHub. Do not upload the outer folder itself.
+6. Confirm index.html and CNAME appear at the top level before committing.
+7. Enter this commit message: Convert Summer Peaks to digital marketplace
+8. Click Commit changes.
+9. Wait several minutes, then visit https://summerpeaks.com and refresh.
+
+IMPORTANT
+
+- Choose Replace when GitHub identifies matching filenames.
+- Do not delete CNAME; it connects the repository to summerpeaks.com.
+- The new homepage uses index.html and marketplace.css.
+- The Summit, its article pages, article data, scheduling files, and publishing workflow have been removed.
+- All six supplied logo variants are stored in assets/brand for future use.
+- Product cards are labeled by development status and do not accept payments yet.
+
+ROLLBACK
+
+If needed, open the repository's Commits page, select this upload commit, and use GitHub's revert option.
