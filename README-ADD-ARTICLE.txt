@@ -48,7 +48,7 @@ IMPORTANT
 - Keep article URLs descriptive.
 - Give every article a unique title, meta description, article angle, and layout/theme.
 - Write for a real business-owner search question, not generic filler.
-- Keep Summer Peaks branding and the Get a Free Quote CTA.
+- Keep Summer Peaks branding and the Book a Free Consultation CTA.
 - Do not mention QuickBooks publicly.
 - The hidden homepage #assessment anchor remains unchanged so existing links keep working.
 
@@ -58,4 +58,4 @@ Change:
   ARTICLE SERVICE
   ARTICLE-SPECIFIC SERVICE DESCRIPTION
 so it directly matches the subject of that individual article.
-The button must remain linked to /#assessment (the public-facing button says Get a Free Quote).
+The button must remain linked to /#assessment (the public-facing button says Book a Free Consultation).
