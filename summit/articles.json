@@ -1,12 +1,122 @@
 [
-{"num":"01","slug":"accounting-workflow-automation","title":"How to Automate Your Accounting Workflow Without Losing Control","category":"Automation","read":"7 min","description":"A practical framework for mapping, simplifying, and automating accounting workflows without sacrificing accuracy or oversight."},
-{"num":"02","slug":"outsourced-bookkeeping-cost","title":"How Much Does Outsourced Bookkeeping Really Cost?","category":"Bookkeeping","read":"6 min","description":"What drives outsourced bookkeeping pricing, how to compare providers, and how to think about cost versus an internal hire."},
-{"num":"03","slug":"bookkeeping-tasks-stop-doing-manually","title":"7 Bookkeeping Tasks Small Businesses Should Stop Doing Manually","category":"Bookkeeping","read":"8 min","description":"Seven repetitive bookkeeping processes that are often better standardized, streamlined, or automated."},
-{"num":"04","slug":"accounts-receivable-process","title":"Build an Accounts Receivable Process That Gets You Paid Faster","category":"Accounting","read":"7 min","description":"A practical AR playbook for invoicing, payment terms, follow-up, visibility, and escalation."},
-{"num":"05","slug":"small-business-financial-reports","title":"The Financial Reports a Small Business Should Actually Review","category":"Reporting","read":"6 min","description":"A practical guide to the core financial reports that help owners understand profitability, cash, receivables, and obligations."},
-{"num":"06","slug":"business-process-automation","title":"Business Process Automation: What to Automate First","category":"Business Process","read":"8 min","description":"How to choose the first business processes to automate based on repetition, error risk, handoffs, and measurable value."},
-{"num":"07","slug":"13-week-cash-flow-forecast-small-business","title":"Build a 13-Week Cash Flow Forecast for a Small Business","category":"Cash Flow","read":"9 min","description":"A practical short-term cash forecasting system for owners who need earlier visibility."},
-{"num":"08","slug":"what-business-owners-need-from-accountant-accounting-system","title":"What Business Owners Need From an Accountant and Accounting System","category":"Management Accounting","read":"8 min","description":"What owners should expect from accounting information, communication, controls, and reporting."},
-{"num":"09","slug":"100-ways-small-businesses-lose-money","title":"100 Ways Small Businesses Lose Money Without Realizing It","category":"Profitability","read":"15 min","description":"A practical review of pricing, billing, purchasing, payroll, inventory, and workflow leaks that reduce profit."},
-{"num":"10","slug":"sports-card-inventory-accounting-methods","title":"Sports Card Inventory Accounting: How to Choose the Right Inventory Method","category":"Industry Accounting","read":"11 min","description":"A practical guide for sports card dealers choosing inventory methods and scalable tracking."}
+  {
+    "num": "01",
+    "slug": "accounting-workflow-automation",
+    "title": "How to Automate Your Accounting Workflow Without Losing Control",
+    "category": "Automation",
+    "read": "7 min",
+    "description": "A practical framework for mapping, simplifying, and automating accounting workflows without sacrificing accuracy or oversight."
+  },
+  {
+    "num": "02",
+    "slug": "outsourced-bookkeeping-cost",
+    "title": "How Much Does Outsourced Bookkeeping Really Cost?",
+    "category": "Bookkeeping",
+    "read": "6 min",
+    "description": "What drives outsourced bookkeeping pricing, how to compare providers, and how to think about cost versus an internal hire."
+  },
+  {
+    "num": "03",
+    "slug": "bookkeeping-tasks-stop-doing-manually",
+    "title": "7 Bookkeeping Tasks Small Businesses Should Stop Doing Manually",
+    "category": "Bookkeeping",
+    "read": "8 min",
+    "description": "Seven repetitive bookkeeping processes that are often better standardized, streamlined, or automated."
+  },
+  {
+    "num": "04",
+    "slug": "accounts-receivable-process",
+    "title": "Build an Accounts Receivable Process That Gets You Paid Faster",
+    "category": "Accounting",
+    "read": "7 min",
+    "description": "A practical AR playbook for invoicing, payment terms, follow-up, visibility, and escalation."
+  },
+  {
+    "num": "05",
+    "slug": "small-business-financial-reports",
+    "title": "The Financial Reports a Small Business Should Actually Review",
+    "category": "Reporting",
+    "read": "6 min",
+    "description": "A practical guide to the core financial reports that help owners understand profitability, cash, receivables, and obligations."
+  },
+  {
+    "num": "06",
+    "slug": "business-process-automation",
+    "title": "Business Process Automation: What to Automate First",
+    "category": "Business Process",
+    "read": "8 min",
+    "description": "How to choose the first business processes to automate based on repetition, error risk, handoffs, and measurable value."
+  },
+  {
+    "num": "07",
+    "slug": "13-week-cash-flow-forecast-small-business",
+    "title": "Build a 13-Week Cash Flow Forecast for a Small Business",
+    "category": "Cash Flow",
+    "read": "9 min",
+    "description": "A practical short-term cash forecasting system for owners who need earlier visibility."
+  },
+  {
+    "num": "08",
+    "slug": "what-business-owners-need-from-accountant-accounting-system",
+    "title": "What Business Owners Need From an Accountant and Accounting System",
+    "category": "Management Accounting",
+    "read": "8 min",
+    "description": "What owners should expect from accounting information, communication, controls, and reporting."
+  },
+  {
+    "num": "09",
+    "slug": "100-ways-small-businesses-lose-money",
+    "title": "100 Ways Small Businesses Lose Money Without Realizing It",
+    "category": "Profitability",
+    "read": "15 min",
+    "description": "A practical review of pricing, billing, purchasing, payroll, inventory, and workflow leaks that reduce profit."
+  },
+  {
+    "num": "10",
+    "slug": "sports-card-inventory-accounting-methods",
+    "title": "Sports Card Inventory Accounting: How to Choose the Right Inventory Method",
+    "category": "Industry Accounting",
+    "read": "11 min",
+    "description": "A practical guide for sports card dealers choosing inventory methods and scalable tracking."
+  },
+  {
+    "num": "11",
+    "slug": "do-i-need-a-bookkeeper-signs",
+    "title": "Do I Need a Bookkeeper? 9 Signs Your Business Has Outgrown DIY Bookkeeping",
+    "category": "Bookkeeping",
+    "read": "10 min",
+    "description": "Nine practical signs that bookkeeping has become a business risk instead of a simple owner task—and what to fix before the problems compound."
+  },
+  {
+    "num": "12",
+    "slug": "what-should-monthly-bookkeeping-include",
+    "title": "What Should Monthly Bookkeeping Include? A Business Owner’s Checklist",
+    "category": "Bookkeeping",
+    "read": "11 min",
+    "description": "A clear checklist for what a dependable monthly bookkeeping process should cover—from reconciliations and receivables to management-ready reporting."
+  },
+  {
+    "num": "13",
+    "slug": "bookkeeping-cleanup-signs-process",
+    "title": "Bookkeeping Cleanup: How to Know When Your Books Need to Be Fixed",
+    "category": "Cleanup",
+    "read": "10 min",
+    "description": "The warning signs of messy books, what a real cleanup should address, and how to avoid paying for the same corrections again next month."
+  },
+  {
+    "num": "14",
+    "slug": "profit-vs-cash-flow-small-business",
+    "title": "Profit vs. Cash Flow: Why a Profitable Business Can Still Run Short on Cash",
+    "category": "Cash Flow",
+    "read": "9 min",
+    "description": "Why profit and cash move differently, the working-capital pressures owners should watch, and how better bookkeeping reveals cash problems earlier."
+  },
+  {
+    "num": "15",
+    "slug": "how-to-switch-bookkeepers",
+    "title": "How to Switch Bookkeepers Without Losing Control of Your Financial Records",
+    "category": "Bookkeeping",
+    "read": "10 min",
+    "description": "A practical transition plan for changing bookkeepers while protecting access, preserving records, and getting the new provider to a clean starting point."
+  }
 ]
