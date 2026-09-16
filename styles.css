@@ -11,3 +11,18 @@
 
 .industry-links{margin-top:32px;padding-top:24px;border-top:1px solid var(--line);scroll-margin-top:100px}.industry-links h3{font-family:Georgia,serif;font-size:26px;font-weight:500;margin:0 0 12px}.industry-links p{line-height:2}.industry-links a{color:var(--navy);text-underline-offset:3px}
 .service:not(.featured) a[href^="/services/"]{color:#765b2b}
+
+/* Separate document and payment actions in the current-client section. */
+.client-strip{flex-wrap:wrap}
+.client-strip>div:last-child{display:flex;flex-wrap:wrap;gap:16px;max-width:100%}
+.client-strip a{display:inline-flex;align-items:center;justify-content:center;min-height:52px;padding:14px 22px;border:1px solid var(--gold);border-radius:4px;background:var(--ivory);color:var(--navy);line-height:1.4;text-align:center;transition:background-color .2s,border-color .2s}
+.client-strip a[href="/secure-upload.html"]{background:var(--navy);border-color:var(--navy);color:var(--white)}
+.client-strip a:hover{background:var(--soft);border-color:var(--navy)}
+.client-strip a[href="/secure-upload.html"]:hover{background:var(--navy2)}
+.client-strip a:focus-visible{outline:3px solid var(--navy);outline-offset:4px}
+@media(max-width:620px){
+  .client-strip{padding:40px 22px;align-items:stretch;gap:20px}
+  .client-strip>div{width:100%}
+  .client-strip>div:last-child{flex-direction:column}
+  .client-strip a{width:100%}
+}
