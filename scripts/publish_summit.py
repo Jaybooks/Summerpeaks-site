@@ -4,6 +4,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 import json
 import shutil
+from render_summit import render_library
 import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -79,6 +80,7 @@ def main():
         item["num"] = f"{len(current)-i+1:02d}"
 
     ARTICLES.write_text(json.dumps(current, indent=2), encoding="utf-8")
+    render_library()
     QUEUE.write_text(json.dumps(future + unresolved, indent=2), encoding="utf-8")
     tree.write(SITEMAP, encoding="utf-8", xml_declaration=True)
 

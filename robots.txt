@@ -1,3 +1,8 @@
+# Public pages and assets are crawlable, including for ChatGPT search.
 User-agent: *
 Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
 Sitemap: https://summerpeaks.com/sitemap.xml

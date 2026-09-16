@@ -8,3 +8,6 @@
 .tax-offer .kicker{color:#d2aa5c}
 .tax-feature{border:2px solid #c69b4b!important;box-shadow:0 16px 42px rgba(7,26,45,.12)}
 .tax-feature h3{font-size:1.55rem}
+
+.industry-links{margin-top:32px;padding-top:24px;border-top:1px solid var(--line);scroll-margin-top:100px}.industry-links h3{font-family:Georgia,serif;font-size:26px;font-weight:500;margin:0 0 12px}.industry-links p{line-height:2}.industry-links a{color:var(--navy);text-underline-offset:3px}
+.service:not(.featured) a[href^="/services/"]{color:#765b2b}
