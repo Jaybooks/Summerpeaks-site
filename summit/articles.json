@@ -142,5 +142,13 @@
     "category": "Business Process",
     "read": "7 min",
     "description": "A practical guide to purchase orders, receiving records, and invoice matching: which businesses benefit, when to use them, and how to handle partial deliveries and services."
+  },
+  {
+    "num": "19",
+    "slug": "verify-vendor-bank-detail-changes",
+    "title": "How to Verify Vendor Bank-Detail Changes Before Paying an Invoice",
+    "category": "Business Process",
+    "read": "6 min",
+    "description": "A practical vendor payment-change workflow: trusted callbacks, approval roles, documentation, a worked example, and what to do if a payment went to the wrong account."
   }
 ]
