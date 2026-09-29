@@ -190,3 +190,15 @@ html{scroll-behavior:smooth}body{line-height:1.68}.header{backdrop-filter:blur(1
 .home-v2 .small-business-note-copy a{display:inline-block;color:var(--navy);font-weight:800;text-decoration:none;border-bottom:1px solid var(--gold);padding-bottom:5px;margin-top:5px}
 .home-v2 .small-business-note-copy a:hover{color:#765b2b}
 @media(max-width:760px){.home-v2 .small-business-note-inner{grid-template-columns:1fr;gap:22px}.home-v2 .small-business-note-copy p{font-size:16px}}
+
+/* Concise homepage */
+.home-v2 .home-hero{grid-template-columns:minmax(0,1fr);padding-top:clamp(64px,7vw,105px);padding-bottom:clamp(70px,8vw,115px)}
+.home-v2 .home-hero-copy{max-width:970px}
+.home-v2 .home-hero h1{max-width:920px}
+.home-v2 .film-section{padding-top:clamp(48px,6vw,75px);padding-bottom:clamp(52px,6vw,80px)}
+.home-v2 .film-intro,.home-v2 .film-frame{max-width:1040px}
+.home-v2 .film-intro h2{font-size:clamp(34px,4vw,54px)}
+.home-v2 .small-business-note-inner{padding-top:clamp(42px,5vw,65px);padding-bottom:clamp(42px,5vw,65px)}
+.home-v2 .services-section{padding-top:clamp(62px,7vw,90px);padding-bottom:clamp(62px,7vw,90px)}
+.home-v2 .consult-section{padding-top:clamp(62px,7vw,90px);padding-bottom:clamp(62px,7vw,90px)}
+@media(max-width:760px){.home-v2 .home-hero{padding-top:52px;padding-bottom:62px}.home-v2 .film-intro{margin-bottom:22px}}
