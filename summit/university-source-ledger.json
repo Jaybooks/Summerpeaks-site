@@ -1,0 +1,35 @@
+{
+  "policy": "Use a genuinely relevant source from a university not previously cited by any published Summit article. A university counts once across all campuses and departments. Update this ledger with each new article, and audit the published archive before choosing a source.",
+  "used_universities": [
+    {
+      "name": "Purdue University",
+      "domains": [
+        "purdue.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-09-26",
+          "slug": "future-of-small-business-accounting-outsourcing",
+          "source_urls": [
+            "https://www.business.purdue.edu/partnerships/projects/home.php",
+            "https://www.business.purdue.edu/masters/programs/ms-accounting/curriculum.php"
+          ]
+        },
+        {
+          "date": "2026-09-28",
+          "slug": "small-business-kpis-what-to-track",
+          "source_urls": [
+            "https://www.extension.purdue.edu/extmedia/EC/EC-616.html"
+          ]
+        },
+        {
+          "date": "2026-09-30",
+          "slug": "owner-draws-contributions-bookkeeping",
+          "source_urls": [
+            "https://extension.purdue.edu/anr/_teams/farm-management/resources/financial-management-resources.html"
+          ]
+        }
+      ]
+    }
+  ]
+}
