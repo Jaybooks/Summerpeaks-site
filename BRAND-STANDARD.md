@@ -1,0 +1,1 @@
+Summer Peaks permanently uses mountain-only branding. No elephant artwork may be reintroduced. Preserve navy, gold and ivory. Current logo.png is the existing gold mountain identity with the elephant removed. The commercial and poster were inspected and contain no elephant. Newsletter footer address is email-only and does not establish the public business location.

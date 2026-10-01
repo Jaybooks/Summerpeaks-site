@@ -30,6 +30,21 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Pennsylvania State University",
+      "domains": [
+        "psu.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-01",
+          "slug": "chart-of-accounts-small-business-review",
+          "source_urls": [
+            "https://extension.psu.edu/time-saving-tips-for-record-keeping-with-quickbooks"
+          ]
+        }
+      ]
     }
   ]
 }

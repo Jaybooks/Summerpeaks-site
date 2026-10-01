@@ -69,7 +69,7 @@
     "title": "100 Ways Small Businesses Lose Money Without Realizing It",
     "category": "Profitability",
     "read": "22 min",
-    "description": "100 distinct profit leaks across pricing, billing, purchasing, payroll, inventory, cash management, and workflows—and what owners should review."
+    "description": "100 distinct profit leaks across pricing, billing, purchasing, payroll, inventory, cash management, and workflows\u2014and what owners should review."
   },
   {
     "num": "10",
@@ -85,15 +85,15 @@
     "title": "Do I Need a Bookkeeper? 9 Signs Your Business Has Outgrown DIY Bookkeeping",
     "category": "Bookkeeping",
     "read": "10 min",
-    "description": "Nine practical signs that bookkeeping has become a business risk instead of a simple owner task—and what to fix before the problems compound."
+    "description": "Nine practical signs that bookkeeping has become a business risk instead of a simple owner task\u2014and what to fix before the problems compound."
   },
   {
     "num": "12",
     "slug": "what-should-monthly-bookkeeping-include",
-    "title": "What Should Monthly Bookkeeping Include? A Business Owner’s Checklist",
+    "title": "What Should Monthly Bookkeeping Include? A Business Owner\u2019s Checklist",
     "category": "Bookkeeping",
     "read": "11 min",
-    "description": "A clear checklist for what a dependable monthly bookkeeping process should cover—from reconciliations and receivables to management-ready reporting."
+    "description": "A clear checklist for what a dependable monthly bookkeeping process should cover\u2014from reconciliations and receivables to management-ready reporting."
   },
   {
     "num": "13",
@@ -173,7 +173,7 @@
     "title": "Small Business Record Retention: What to Keep and Why",
     "category": "Bookkeeping",
     "read": "8 min",
-    "description": "A practical framework for organizing invoices, receipts, statements, payroll, asset records, and other support—and deciding retention based on what each record substantiates."
+    "description": "A practical framework for organizing invoices, receipts, statements, payroll, asset records, and other support\u2014and deciding retention based on what each record substantiates."
   },
   {
     "num": "23",
@@ -254,5 +254,13 @@
     "category": "Bookkeeping",
     "read": "7 min",
     "description": "Track money moving between an owner and a small business without confusing contributions, draws, sales, and expenses."
+  },
+  {
+    "num": "33",
+    "slug": "chart-of-accounts-small-business-review",
+    "title": "A Chart of Accounts Your Small Business Can Actually Use",
+    "category": "Bookkeeping",
+    "read": "6 min",
+    "description": "Review confusing categories, preserve transaction history, and organize accounting reports around the decisions your business needs."
   }
 ]
