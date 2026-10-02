@@ -45,6 +45,22 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Iowa State University",
+      "domains": [
+        "iastate.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-02",
+          "slug": "break-even-sales-contribution-margin-small-business",
+          "source_urls": [
+            "https://www.extension.iastate.edu/Agdm/wholefarm/html/c5-201.html",
+            "https://www.extension.iastate.edu/Agdm/wholefarm/html/c5-202.html"
+          ]
+        }
+      ]
     }
   ]
 }
