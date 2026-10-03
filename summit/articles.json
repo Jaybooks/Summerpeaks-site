@@ -270,5 +270,13 @@
     "category": "Cost Accounting",
     "read": "6 min",
     "description": "Use contribution margin, a worked example, and a short cost review to estimate break-even sales without confusing profit with cash."
+  },
+  {
+    "num": "35",
+    "slug": "unapplied-customer-payments-invoice-matching",
+    "title": "Customer Paid, Invoice Still Open? Review Unapplied Payments",
+    "category": "Accounts Receivable",
+    "read": "6 min",
+    "description": "A practical workflow for matching customer receipts to invoices, investigating missing remittance details, and keeping collections accurate."
   }
 ]

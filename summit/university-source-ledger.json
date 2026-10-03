@@ -61,6 +61,22 @@
           ]
         }
       ]
+    },
+    {
+      "name": "University of Michigan",
+      "domains": [
+        "umich.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-03",
+          "slug": "unapplied-customer-payments-invoice-matching",
+          "source_urls": [
+            "https://ssc.umich.edu/finance/billing-collections/incoming-payment-processing/",
+            "https://spg.umich.edu/policy/501.05"
+          ]
+        }
+      ]
     }
   ]
 }
