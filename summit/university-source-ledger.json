@@ -77,6 +77,21 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Ferris State University",
+      "domains": [
+        "ferris.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-04",
+          "slug": "prepaid-expenses-monthly-schedule-small-business",
+          "source_urls": [
+            "https://www.ferris.edu/policies/administration-and-finance-prepaid-expense-policy.htm"
+          ]
+        }
+      ]
     }
   ]
 }

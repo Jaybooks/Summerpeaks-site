@@ -278,5 +278,13 @@
     "category": "Accounts Receivable",
     "read": "6 min",
     "description": "A practical workflow for matching customer receipts to invoices, investigating missing remittance details, and keeping collections accurate."
+  },
+  {
+    "num": "36",
+    "slug": "prepaid-expenses-monthly-schedule-small-business",
+    "title": "Prepaid Expenses: Build a Monthly Schedule That Stays Accurate",
+    "category": "Bookkeeping",
+    "read": "7 min",
+    "description": "Identify prepaid expenses, build a monthly schedule, recognize cost over the benefit period, and reconcile the remaining balance."
   }
 ]
