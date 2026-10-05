@@ -92,6 +92,21 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Northwestern University",
+      "domains": [
+        "northwestern.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-05",
+          "slug": "business-credit-card-reconciliation-checklist",
+          "source_urls": [
+            "https://www.northwestern.edu/procurement/payment/corporate-card/managing-a-card/reconciling-transactions.html"
+          ]
+        }
+      ]
     }
   ]
 }
