@@ -294,5 +294,13 @@
     "category": "Bookkeeping",
     "read": "7 min",
     "description": "A practical review of business credit card charges, receipts, credits and payments, with a worked balance example and an exception checklist."
+  },
+  {
+    "num": "38",
+    "slug": "accrued-expenses-month-end-small-business",
+    "title": "Accrued Expenses: A Practical Month-End Review for Small Businesses",
+    "category": "Accounting",
+    "read": "7 min",
+    "description": "A practical month-end process for finding expenses incurred but not yet billed, estimating them carefully and clearing them without duplicates."
   }
 ]

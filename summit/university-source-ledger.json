@@ -107,6 +107,21 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Cornell University",
+      "domains": [
+        "cornell.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-06",
+          "slug": "accrued-expenses-month-end-small-business",
+          "source_urls": [
+            "https://finance.cornell.edu/accounting/yearend/revenue-expense-accruals"
+          ]
+        }
+      ]
     }
   ]
 }
