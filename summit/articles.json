@@ -302,5 +302,13 @@
     "category": "Accounting",
     "read": "7 min",
     "description": "A practical month-end process for finding expenses incurred but not yet billed, estimating them carefully and clearing them without duplicates."
+  },
+  {
+    "num": "39",
+    "slug": "petty-cash-fund-count-replenish-small-business",
+    "title": "Petty Cash: Keep a Small Business Cash Fund Accountable",
+    "category": "Accounting",
+    "read": "5 min",
+    "description": "A practical petty-cash process for setting a fund amount, documenting purchases, counting cash and receipts, and replenishing without duplicate expenses."
   }
 ]

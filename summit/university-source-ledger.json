@@ -122,6 +122,22 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Duke University",
+      "domains": [
+        "duke.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-07",
+          "slug": "petty-cash-fund-count-replenish-small-business",
+          "source_urls": [
+            "https://finance.duke.edu/accounting/gap/m200-030/",
+            "https://finance.duke.edu/accounting/glaccts/assets/as11xx/"
+          ]
+        }
+      ]
     }
   ]
 }
