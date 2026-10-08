@@ -138,6 +138,21 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Columbia University",
+      "domains": [
+        "columbia.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-08",
+          "slug": "foreign-currency-invoices-payments-exchange-differences",
+          "source_urls": [
+            "https://www.columbia.edu/cu/business/courses/download/B8101-XX/brott/lecture6.pdf"
+          ]
+        }
+      ]
     }
   ]
 }
