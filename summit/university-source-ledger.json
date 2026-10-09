@@ -153,6 +153,21 @@
           ]
         }
       ]
+    },
+    {
+      "name": "University of Arizona",
+      "domains": [
+        "arizona.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-09",
+          "slug": "physical-inventory-count-differences-adjustments",
+          "source_urls": [
+            "https://finance.arizona.edu/accounting/property/inventory"
+          ]
+        }
+      ]
     }
   ]
 }

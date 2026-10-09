@@ -318,5 +318,13 @@
     "category": "Accounting",
     "read": "4 min",
     "description": "A practical guide to tracking invoice currency, exchange rates and payment fees so a paid foreign-currency invoice does not leave an unexplained balance."
+  },
+  {
+    "num": "41",
+    "slug": "physical-inventory-count-differences-adjustments",
+    "title": "Physical Inventory Counts: Turn Differences Into Documented Adjustments",
+    "category": "Accounting",
+    "read": "5 min",
+    "description": "A practical workflow for counting inventory, investigating differences and posting documented adjustments without hiding the cause."
   }
 ]
