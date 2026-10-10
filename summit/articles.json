@@ -326,5 +326,13 @@
     "category": "Accounting",
     "read": "5 min",
     "description": "A practical workflow for counting inventory, investigating differences and posting documented adjustments without hiding the cause."
+  },
+  {
+    "num": "42",
+    "slug": "daily-sales-reconciliation-receipts-deposits",
+    "title": "Daily Sales Reconciliation: Connect Receipts, Deposits and the General Ledger",
+    "category": "Accounting",
+    "read": "6 min",
+    "description": "Connect sales reports, payment methods, processor settlements and bank deposits without forcing unlike totals to match."
   }
 ]

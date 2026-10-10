@@ -168,6 +168,23 @@
           ]
         }
       ]
+    },
+    {
+      "name": "University of California",
+      "domains": [
+        "berkeley.edu",
+        "ucop.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-10",
+          "slug": "daily-sales-reconciliation-receipts-deposits",
+          "source_urls": [
+            "https://controller.berkeley.edu/financial-operations/cash-handling-and-banking-services/bank-deposit-handling-and-recording",
+            "https://www.ucop.edu/ethics-compliance-audit-services/audit/resources/internal-controls-quiz.html"
+          ]
+        }
+      ]
     }
   ]
 }
