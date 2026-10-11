@@ -185,6 +185,21 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Princeton University",
+      "domains": [
+        "princeton.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-11",
+          "slug": "employee-expense-reimbursements-receipts-approval",
+          "source_urls": [
+            "https://finance.princeton.edu/policies/reimbursement-policy"
+          ]
+        }
+      ]
     }
   ]
 }
