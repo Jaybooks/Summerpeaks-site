@@ -200,6 +200,22 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Rice University",
+      "domains": [
+        "openstax.org",
+        "rice.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-12",
+          "slug": "purchase-discounts-payment-terms-small-business",
+          "source_urls": [
+            "https://openstax.org/books/principles-financial-accounting/pages/6-1-compare-and-contrast-merchandising-versus-service-activities-and-transactions"
+          ]
+        }
+      ]
     }
   ]
 }

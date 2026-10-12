@@ -342,5 +342,13 @@
     "category": "Accounting",
     "read": "5 min",
     "description": "A practical workflow for documenting employee expenses, approving reimbursements and paying them without duplicate accounting."
+  },
+  {
+    "num": "44",
+    "slug": "purchase-discounts-payment-terms-small-business",
+    "title": "Purchase Discounts: Decide, Record and Reconcile Them Correctly",
+    "category": "Accounts Payable",
+    "read": "5 min",
+    "description": "A practical small-business workflow for evaluating early-payment discounts, paying the correct amount and keeping accounts payable accurate."
   }
 ]
