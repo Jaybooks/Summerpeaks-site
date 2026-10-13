@@ -350,5 +350,13 @@
     "category": "Accounts Payable",
     "read": "5 min",
     "description": "A practical small-business workflow for evaluating early-payment discounts, paying the correct amount and keeping accounts payable accurate."
+  },
+  {
+    "num": "45",
+    "slug": "job-costing-estimate-actual-project-review",
+    "title": "Job Costing: Compare the Estimate With What the Work Actually Cost",
+    "category": "Cost Accounting",
+    "read": "6 min",
+    "description": "A practical workflow for assigning labor, materials and overhead to individual jobs, then reviewing estimate-to-actual differences."
   }
 ]

@@ -216,6 +216,22 @@
           ]
         }
       ]
+    },
+    {
+      "name": "University of Cincinnati",
+      "domains": [
+        "uc.edu",
+        "ucincinnatipress.pressbooks.pub"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-13",
+          "slug": "job-costing-estimate-actual-project-review",
+          "source_urls": [
+            "https://ucincinnatipress.pressbooks.pub/principlesaccounting/chapter/job-order-costing/"
+          ]
+        }
+      ]
     }
   ]
 }
