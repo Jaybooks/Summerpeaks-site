@@ -232,6 +232,15 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Yale University",
+      "domains": ["yale.edu"],
+      "published_articles": [{
+        "date": "2026-10-14",
+        "slug": "allowance-doubtful-accounts-small-business",
+        "source_urls": ["https://learning-accounting.yale.edu/basics-accounting/80-adjustments-involving-estimation-accounts-receivable"]
+      }]
     }
   ]
 }
