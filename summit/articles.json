@@ -366,5 +366,13 @@
     "category": "Accounts Receivable",
     "read": "7 min",
     "description": "A practical small-business guide to estimating uncollectible receivables, reviewing aging, and recording write-offs without double-counting expense."
+  },
+  {
+    "num": "47",
+    "slug": "small-business-accounting-controls-one-person",
+    "title": "Small Business Accounting Controls When One Person Does the Books",
+    "category": "Internal Controls",
+    "read": "7 min",
+    "description": "Five practical safeguards for small businesses where one person handles multiple accounting duties."
   }
 ]
