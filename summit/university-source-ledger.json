@@ -241,6 +241,15 @@
         "slug": "allowance-doubtful-accounts-small-business",
         "source_urls": ["https://learning-accounting.yale.edu/basics-accounting/80-adjustments-involving-estimation-accounts-receivable"]
       }]
+    },
+    {
+      "name": "Florida Atlantic University",
+      "domains": ["fau.edu"],
+      "published_articles": [{
+        "date": "2026-10-15",
+        "slug": "small-business-accounting-controls-one-person",
+        "source_urls": ["https://www.fau.edu/admin/oig/internal-controls/"]
+      }]
     }
   ]
 }
