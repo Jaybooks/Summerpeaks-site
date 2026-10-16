@@ -222,3 +222,24 @@ html{scroll-behavior:smooth}body{line-height:1.68}.header{backdrop-filter:blur(1
 
 /* Direct proposal intake: compact expandable groups and mobile choices */
 .proposal-group{border:1px solid var(--line);border-radius:9px;margin:0 0 13px;background:#fff;overflow:hidden}.proposal-group>summary{cursor:pointer;list-style:none;padding:17px 18px;font-weight:700;color:var(--navy);display:flex;justify-content:space-between;align-items:center;gap:12px}.proposal-group>summary::-webkit-details-marker{display:none}.proposal-group>summary:after{content:'+';font-size:23px;line-height:1;color:var(--gold)}.proposal-group[open]>summary:after{content:'−'}.proposal-group[open]>summary{border-bottom:1px solid var(--line)}.proposal-group>fieldset{padding:10px 18px 20px!important;margin:0!important}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}.proposal-group>summary:focus-visible{outline:3px solid var(--gold);outline-offset:-3px}@media(max-width:700px){.mobile-cta{display:grid;grid-template-columns:1fr 1fr;gap:8px}.mobile-cta .button{font-size:12px;padding:12px 7px;text-align:center}.mobile-cta .mobile-secondary{background:#fff;color:var(--navy);border:1px solid var(--navy)}.proposal-group>fieldset{padding:8px 12px 16px!important}}
+
+/* 2026-10-16 final homepage layout polish */
+.home-v2 .service-grid > .service{display:flex;flex-direction:column;min-width:0}
+.home-v2 .service-grid > .service a{margin-top:auto;align-self:flex-start;padding-top:18px}
+.home-v2 .consult-section{gap:clamp(28px,5vw,76px)}
+.home-v2 .form-card{min-width:0}
+.home-v2 .form-card input,.home-v2 .form-card select,.home-v2 .form-card textarea{max-width:100%;box-sizing:border-box}
+.home-v2 .proposal-group summary{line-height:1.35}
+.home-v2 #proposal .consult-copy{top:110px}
+.home-v2 #assessment{border-top:1px solid var(--line)}
+@media(max-width:760px){
+ .home-v2 .home-hero h1{font-size:clamp(39px,9.5vw,64px);overflow-wrap:break-word}
+ .home-v2 .home-lead{font-size:clamp(16px,4vw,19px)}
+ .home-v2 .film-frame{width:100%;min-width:0}
+ .home-v2 .film-frame video{width:100%;height:auto;display:block}
+ .home-v2 .consult-copy h2{font-size:clamp(32px,8vw,42px)}
+ .home-v2 .consult-section{gap:26px}
+ .home-v2 .form-card{padding:20px 16px}
+ .home-v2 .service-grid > .service a{margin-top:10px}
+}
+@media(max-width:700px){.home-v2 footer{padding-bottom:100px}}
