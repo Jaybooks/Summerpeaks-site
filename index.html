@@ -115,7 +115,7 @@
           <input type="hidden" name="_subject" value="Summer Peaks direct proposal request">
           <input type="hidden" name="request_type" value="Direct pricing proposal">
           <div class="hp-field" aria-hidden="true"><label>Leave empty<input name="_gotcha" tabindex="-1" autocomplete="off"></label></div>
-          <fieldset><legend>Business and contact</legend>
+          <details class="proposal-group" open><summary>Business details</summary><fieldset><legend class="sr-only">Business and contact</legend>
             <div class="two">
               <label>Your name<input required name="name" autocomplete="name"></label>
               <label>Company name<input required name="company" autocomplete="organization"></label>
@@ -126,8 +126,8 @@
               <label>Business structure<select required name="entity_type"><option value="">Select</option><option>LLC</option><option>S corporation</option><option>C corporation</option><option>Sole proprietorship</option><option>Partnership</option><option>Nonprofit</option><option>Other / not sure</option></select></label>
               <label>Approximate annual revenue<select required name="annual_revenue"><option value="">Select</option><option>Under $250,000</option><option>$250,000–$1 million</option><option>$1 million–$5 million</option><option>$5 million–$10 million</option><option>Over $10 million</option><option>Prefer to discuss</option></select></label>
             </div>
-          </fieldset>
-          <fieldset><legend>Services to include in your proposal</legend><div class="checks">
+          </fieldset></details>
+          <details class="proposal-group" ><summary>Services you need</summary><fieldset><legend class="sr-only">Services to include in your proposal</legend><div class="checks">
             <label><input type="checkbox" name="requested_services" value="Full-cycle accounting">Full-cycle accounting</label>
             <label><input type="checkbox" name="requested_services" value="Monthly bookkeeping and reconciliation">Monthly bookkeeping and reconciliation</label>
             <label><input type="checkbox" name="requested_services" value="Catch-up / cleanup">Catch-up / cleanup</label>
@@ -140,8 +140,8 @@
             <label><input type="checkbox" name="requested_services" value="Tax preparation or tax coordination">Tax preparation or tax coordination (subject to scope)</label>
             <label><input type="checkbox" name="requested_services" value="Nonprofit or grant accounting">Nonprofit or grant accounting</label>
             <label><input type="checkbox" name="requested_services" value="One-time project or other">One-time project or other</label>
-          </div></fieldset>
-          <fieldset><legend>Monthly workload</legend><p class="micro">Approximate figures are fine. Enter 0 if not applicable, or leave blank if unknown.</p>
+          </div></fieldset></details>
+          <details class="proposal-group" ><summary>Monthly workload and systems</summary><fieldset><legend class="sr-only">Monthly workload</legend><p class="micro">Approximate figures are fine. Enter 0 if not applicable, or leave blank if unknown.</p>
             <div class="two">
               <label>Bank accounts<input type="number" min="0" name="bank_accounts"></label>
               <label>Credit card accounts<input type="number" min="0" name="credit_card_accounts"></label>
@@ -158,8 +158,8 @@
             </div>
             <label>Accounting software and other systems<input name="systems" placeholder="e.g. QuickBooks, Xero, Shopify, POS, payroll platform"></label>
             <label>Other complexity (inventory, ecommerce payouts, job costing, intercompany, multi-currency, restricted funds, etc.)<textarea name="complexity" rows="3"></textarea></label>
-          </fieldset>
-          <fieldset><legend>Timing, condition and deliverables</legend>
+          </fieldset></details>
+          <details class="proposal-group" ><summary>Timing and deliverables</summary><fieldset><legend class="sr-only">Timing, condition and deliverables</legend>
             <div class="two">
               <label>Current state of the books<select required name="book_condition"><option value="">Select</option><option>Current and reconciled</option><option>Mostly current, needs some corrections</option><option>Behind or requires cleanup</option><option>New business / no existing books</option><option>Not sure</option></select></label>
               <label>Months behind, if any<input type="number" min="0" name="months_behind"></label>
@@ -170,8 +170,8 @@
             </div>
             <label>Specific deliverables, approval workflows, integrations, or other scope details<textarea name="scope_details" rows="4" placeholder="Describe the reports, reconciliations, payment approvals, tax filings or other outputs you expect."></textarea></label>
             <label>Existing RFP or scope document link (optional)<input type="url" name="rfp_link" placeholder="https://..."></label>
-          </fieldset>
-          <label class="consent"><input required type="checkbox" name="proposal_contact_consent" value="Yes">Summer Peaks may contact me about this proposal request.</label>
+          </fieldset></details>
+          <p class="micro">Complete the sections above before submitting. You can use estimates where exact volumes are unknown.</p><label class="consent"><input required type="checkbox" name="proposal_contact_consent" value="Yes">Summer Peaks may contact me about this proposal request.</label>
           <button class="button full" type="submit">Submit proposal request</button>
           <p id="proposalStatus" class="status" role="status" aria-live="polite"></p>
         </form>
@@ -235,7 +235,7 @@
     <p>All Summer Peaks client work stays in the United States.</p>
     <p>© <span id="year"></span> Summer Peaks. All rights reserved.</p>
   </footer>
-  <div class="mobile-cta"><a class="button" href="#assessment">Book a free 30 minute call</a></div>
+  <div class="mobile-cta"><a class="button" href="#proposal">Get a Proposal</a><a class="button mobile-secondary" href="#assessment">Book a free call</a></div>
   <script src="script.js" defer></script>
 </body>
 </html>
