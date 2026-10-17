@@ -382,5 +382,13 @@
     "category": "Nonprofit Accounting",
     "read": "8 min",
     "description": "Donor restrictions, net assets, grants, functional expenses, financial statements and compliance differences explained."
+  },
+  {
+    "num": "49",
+    "slug": "business-loan-payments-principal-interest",
+    "title": "Business Loan Payments: Separate Principal From Interest",
+    "category": "Bookkeeping",
+    "read": "6 min",
+    "description": "Separate principal, interest and other payment components, then reconcile each business loan to lender records."
   }
 ]

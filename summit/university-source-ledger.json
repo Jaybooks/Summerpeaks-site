@@ -251,5 +251,14 @@
         "source_urls": ["https://www.fau.edu/admin/oig/internal-controls/"]
       }]
     }
+    ,{
+      "name": "Mississippi State University",
+      "domains": ["msstate.edu"],
+      "published_articles": [{
+        "date": "2026-10-17",
+        "slug": "business-loan-payments-principal-interest",
+        "source_urls": ["https://extension.msstate.edu/publications/paying-your-loans-loan-amortization"]
+      }]
+    }
   ]
 }
