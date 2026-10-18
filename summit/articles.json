@@ -390,5 +390,13 @@
     "category": "Bookkeeping",
     "read": "6 min",
     "description": "Separate principal, interest and other payment components, then reconcile each business loan to lender records."
+  },
+  {
+    "num": "50",
+    "slug": "payroll-reconciliation-register-payments-liabilities",
+    "title": "Payroll Reconciliation: Match the Register, Payments and Liabilities",
+    "category": "Payroll Accounting",
+    "read": "6 min",
+    "description": "Connect final payroll records, ledger entries, cash movements and outstanding payroll obligations in a documented review."
   }
 ]
