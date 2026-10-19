@@ -398,5 +398,13 @@
     "category": "Payroll Accounting",
     "read": "6 min",
     "description": "Connect final payroll records, ledger entries, cash movements and outstanding payroll obligations in a documented review."
+  },
+  {
+    "num": "51",
+    "slug": "intercompany-balances-business-pays-another",
+    "title": "Intercompany Balances: When One Business Pays for Another",
+    "category": "Multi-Entity Accounting",
+    "read": "6 min",
+    "description": "Track payments between related businesses, compare both sets of books and distinguish reconciliation from settlement and consolidation."
   }
 ]
