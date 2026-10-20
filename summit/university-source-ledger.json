@@ -235,51 +235,96 @@
     },
     {
       "name": "Yale University",
-      "domains": ["yale.edu"],
-      "published_articles": [{
-        "date": "2026-10-14",
-        "slug": "allowance-doubtful-accounts-small-business",
-        "source_urls": ["https://learning-accounting.yale.edu/basics-accounting/80-adjustments-involving-estimation-accounts-receivable"]
-      }]
+      "domains": [
+        "yale.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-14",
+          "slug": "allowance-doubtful-accounts-small-business",
+          "source_urls": [
+            "https://learning-accounting.yale.edu/basics-accounting/80-adjustments-involving-estimation-accounts-receivable"
+          ]
+        }
+      ]
     },
     {
       "name": "Florida Atlantic University",
-      "domains": ["fau.edu"],
-      "published_articles": [{
-        "date": "2026-10-15",
-        "slug": "small-business-accounting-controls-one-person",
-        "source_urls": ["https://www.fau.edu/admin/oig/internal-controls/"]
-      }]
-    }
-    ,{
+      "domains": [
+        "fau.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-15",
+          "slug": "small-business-accounting-controls-one-person",
+          "source_urls": [
+            "https://www.fau.edu/admin/oig/internal-controls/"
+          ]
+        }
+      ]
+    },
+    {
       "name": "Mississippi State University",
-      "domains": ["msstate.edu"],
-      "published_articles": [{
-        "date": "2026-10-17",
-        "slug": "business-loan-payments-principal-interest",
-        "source_urls": ["https://extension.msstate.edu/publications/paying-your-loans-loan-amortization"]
-      }]
-    }
-    ,{
+      "domains": [
+        "msstate.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-17",
+          "slug": "business-loan-payments-principal-interest",
+          "source_urls": [
+            "https://extension.msstate.edu/publications/paying-your-loans-loan-amortization"
+          ]
+        }
+      ]
+    },
+    {
       "name": "University of Washington",
-      "domains": ["uw.edu", "washington.edu", "uwb.edu"],
-      "published_articles": [{
-        "date": "2026-10-18",
-        "slug": "payroll-reconciliation-register-payments-liabilities",
-        "source_urls": ["https://finance.uw.edu/uco/financial-reporting/glarp-general-ledger-reconciliation-process"]
-      }]
+      "domains": [
+        "uw.edu",
+        "washington.edu",
+        "uwb.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-18",
+          "slug": "payroll-reconciliation-register-payments-liabilities",
+          "source_urls": [
+            "https://finance.uw.edu/uco/financial-reporting/glarp-general-ledger-reconciliation-process"
+          ]
+        }
+      ]
     },
     {
       "name": "Stanford University",
-      "domains": ["stanford.edu"],
-      "published_articles": [{
-        "date": "2026-10-19",
-        "slug": "intercompany-balances-business-pays-another",
-        "source_urls": [
-          "https://fingate.stanford.edu/managing-funds/auxiliaries-and-service-centers",
-          "https://fingate.stanford.edu/account-structure/resource/expenditure-type-and-object-code-updates"
-        ]
-      }]
+      "domains": [
+        "stanford.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-19",
+          "slug": "intercompany-balances-business-pays-another",
+          "source_urls": [
+            "https://fingate.stanford.edu/managing-funds/auxiliaries-and-service-centers",
+            "https://fingate.stanford.edu/account-structure/resource/expenditure-type-and-object-code-updates"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Boston University",
+      "domains": [
+        "bu.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-20",
+          "slug": "lease-register-equipment-rental-agreements",
+          "source_urls": [
+            "https://www.bu.edu/cfo/leased-loaned-or-rented-equipment/"
+          ]
+        }
+      ]
     }
   ]
 }

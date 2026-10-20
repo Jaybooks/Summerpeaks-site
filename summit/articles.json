@@ -406,5 +406,13 @@
     "category": "Multi-Entity Accounting",
     "read": "6 min",
     "description": "Track payments between related businesses, compare both sets of books and distinguish reconciliation from settlement and consolidation."
+  },
+  {
+    "num": "52",
+    "slug": "lease-register-equipment-rental-agreements",
+    "title": "Lease Register: Keep Equipment and Rental Agreements Visible",
+    "category": "Lease Administration",
+    "read": "6 min",
+    "description": "Connect signed lease agreements, equipment, payment schedules, renewal deadlines and accounting review in a practical register."
   }
 ]
