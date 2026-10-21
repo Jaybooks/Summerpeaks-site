@@ -20,6 +20,22 @@
     {"@type":"VideoObject","name":"Your Accounting. Handled. | Summer Peaks","description":"A Summer Peaks accounting commercial about flexible bookkeeping and accounting support for businesses anywhere in the United States.","thumbnailUrl":"https://summerpeaks.com/assets/video/summer-peaks-commercial-poster.jpg","contentUrl":"https://summerpeaks.com/assets/video/summer-peaks-accounting-commercial.mp4","duration":"PT21S","publisher":{"@id":"https://summerpeaks.com/#organization"}}
   ]}
   </script>
+  <!-- Google Analytics 4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-YFE18QMGZ4"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-YFE18QMGZ4');
+    document.addEventListener('click', function(event) {
+      const link = event.target.closest('a[href]');
+      if (!link) return;
+      const href = link.getAttribute('href') || '';
+      if (/calendly\.com|formspree\.io|#assessment|#proposal/i.test(href)) {
+        gtag('event', 'lead_cta_click', {link_url: link.href, link_text: (link.textContent || '').trim().slice(0,100)});
+      }
+    });
+  </script>
 </head>
 <body class="home-v2">
   <a class="skip" href="#main">Skip to content</a>
