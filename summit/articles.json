@@ -414,5 +414,13 @@
     "category": "Lease Administration",
     "read": "6 min",
     "description": "Connect signed lease agreements, equipment, payment schedules, renewal deadlines and accounting review in a practical register."
+  },
+  {
+    "num": "53",
+    "slug": "customer-credit-memos-invoice-adjustments",
+    "title": "Customer Credit Memos: Correct the Invoice, Preserve the Record",
+    "category": "Accounts Receivable",
+    "read": "6 min",
+    "description": "A practical workflow for approving, issuing, applying and reconciling customer credits without erasing the original invoice."
   }
 ]

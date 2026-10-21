@@ -325,6 +325,21 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Indiana University",
+      "domains": [
+        "iu.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-21",
+          "slug": "customer-credit-memos-invoice-adjustments",
+          "source_urls": [
+            "https://training.iu.edu/documentation/accounts-receivable/credit-memos/index.html"
+          ]
+        }
+      ]
     }
   ]
 }
