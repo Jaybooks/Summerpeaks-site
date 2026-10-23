@@ -5,7 +5,9 @@ const result=document.getElementById('form-result');
 form.addEventListener('submit',async function(event){
  event.preventDefault();
  const button=form.querySelector('button[type="submit"]');
- document.getElementById('submitted_at_utc').value=new Date().toISOString();
+ const submittedAt=new Date().toISOString();
+ const submittedDetails=Object.fromEntries(new FormData(form).entries());
+ document.getElementById('submitted_at_utc').value=submittedAt;
  button.disabled=true;button.textContent='Sending...';
  result.hidden=true;
  try {
@@ -15,10 +17,14 @@ form.addEventListener('submit',async function(event){
   result.style.background='#eaf4ef';result.style.color='#183d2c';
   const title=document.createElement('h2');title.textContent='Referral submitted';
   const info=document.createElement('p');info.textContent='Thank you. Your referral was received for review. We will reach out to schedule an introductory conversation if the referred person has agreed to be contacted. Submission does not mean the referral has been approved.';
+  const heading=document.createElement('h3');heading.textContent='Your submitted referral record';
+  const receipt=document.createElement('div');receipt.style.cssText='white-space:pre-line;background:white;padding:14px;border:1px solid #c8d3da;border-radius:6px;overflow-wrap:anywhere';
+  const fields=[['Submission date and time (UTC)',submittedAt],['Referrer name',submittedDetails.referrer_name],['Referrer email',submittedDetails.email],['Referrer phone',submittedDetails.phone],['Relationship to Summer Peaks',submittedDetails.relationship],['Referred customer name',submittedDetails.referred_customer_name],['Referred business',submittedDetails.referred_customer_business||'Not provided'],['Referred customer email',submittedDetails.referred_customer_email],['Referred customer phone',submittedDetails.referred_customer_phone],['Customer agreed to contact',submittedDetails.customer_agreed_to_contact],['Terms version',submittedDetails.referral_terms_version]];
+  receipt.textContent=fields.map(([key,value])=>key+': '+(value||'')).join('\\n');
   const savedTerms=document.createElement('p');savedTerms.textContent=document.getElementById('referral-terms').textContent;
-  const note=document.createElement('p');note.textContent='Please save or print this confirmation and its terms for your records. We will separately confirm eligibility and payment arrangements.';
+  const note=document.createElement('p');note.textContent='Save this receipt as a PDF now. It records the details submitted and the time sent. Keep it as evidence of your submission; referral eligibility and commission approval are confirmed separately. The final submitted record is also retained by Summer Peaks through Formspree.';
   const printButton=document.createElement('button');printButton.type='button';printButton.textContent='Print / Save as PDF';printButton.addEventListener('click',()=>window.print());
-  result.replaceChildren(title,info,savedTerms,note,printButton);
+  result.replaceChildren(title,info,heading,receipt,savedTerms,note,printButton);
   result.hidden=false;
  } catch(error) {
   result.style.background='#fff1f0';result.style.color='#8c2722';
