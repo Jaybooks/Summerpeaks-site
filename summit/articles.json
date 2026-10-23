@@ -422,5 +422,21 @@
     "category": "Accounts Receivable",
     "read": "6 min",
     "description": "A practical workflow for approving, issuing, applying and reconciling customer credits without erasing the original invoice."
+  },
+  {
+    "num": "54",
+    "slug": "vendor-onboarding-w9-bank-details-controls",
+    "title": "Vendor Onboarding: Verify Details Before the First Payment",
+    "category": "Accounts Payable",
+    "read": "6 min",
+    "description": "Collect vendor documentation, verify bank instructions and approve new suppliers before releasing payments."
+  },
+  {
+    "num": "55",
+    "slug": "payment-processor-payouts-gross-sales-fees-reconciliation",
+    "title": "Payment Processor Payouts: Reconcile Sales, Fees and Bank Deposits",
+    "category": "Bookkeeping",
+    "read": "7 min",
+    "description": "Bridge gross card activity through refunds and processor fees to the net deposit, without duplicating revenue."
   }
 ]
