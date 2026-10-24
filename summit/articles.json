@@ -438,5 +438,13 @@
     "category": "Bookkeeping",
     "read": "7 min",
     "description": "Bridge gross card activity through refunds and processor fees to the net deposit, without duplicating revenue."
+  },
+  {
+    "num": "56",
+    "slug": "outstanding-checks-stale-payments-follow-up",
+    "title": "Outstanding Checks: What to Do When a Payment Never Clears",
+    "category": "Cash Controls",
+    "read": "6 min",
+    "description": "Track aging checks, verify payee status and document stop-payment or reissue decisions without losing the obligation."
   }
 ]
