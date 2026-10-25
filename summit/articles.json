@@ -446,5 +446,13 @@
     "category": "Cash Controls",
     "read": "6 min",
     "description": "Track aging checks, verify payee status and document stop-payment or reissue decisions without losing the obligation."
+  },
+  {
+    "num": "57",
+    "slug": "gift-card-sales-redemptions-unearned-revenue",
+    "title": "Gift Card Accounting: Track Sales, Redemptions and Unused Balances",
+    "category": "Revenue Accounting",
+    "read": "6 min",
+    "description": "Reconcile gift-card sales and redemptions to the outstanding liability without counting upfront cash as earned revenue."
   }
 ]
