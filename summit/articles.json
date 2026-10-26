@@ -454,5 +454,13 @@
     "category": "Revenue Accounting",
     "read": "6 min",
     "description": "Reconcile gift-card sales and redemptions to the outstanding liability without counting upfront cash as earned revenue."
+  },
+  {
+    "num": "58",
+    "slug": "sales-tax-payable-reconcile-before-filing",
+    "title": "Sales Tax Payable: Reconcile Before Filing",
+    "category": "Sales Tax Accounting",
+    "read": "7 min",
+    "description": "Reconcile taxable sales, exemptions, refunds, collected tax and remittances to the general ledger before filing."
   }
 ]
