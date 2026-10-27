@@ -462,5 +462,13 @@
     "category": "Sales Tax Accounting",
     "read": "7 min",
     "description": "Reconcile taxable sales, exemptions, refunds, collected tax and remittances to the general ledger before filing."
+  },
+  {
+    "num": "59",
+    "slug": "vendor-statements-reconcile-ap-missing-bills",
+    "title": "Vendor Statement Reconciliation: Find Missing Bills Before Paying Twice",
+    "category": "Accounts Payable",
+    "read": "7 min",
+    "description": "Match supplier statements to bills, credits and payments so missing invoices and duplicate charges are resolved before the next payment run."
   }
 ]
