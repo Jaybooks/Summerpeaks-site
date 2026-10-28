@@ -470,5 +470,13 @@
     "category": "Accounts Payable",
     "read": "7 min",
     "description": "Match supplier statements to bills, credits and payments so missing invoices and duplicate charges are resolved before the next payment run."
+  },
+  {
+    "num": "60",
+    "slug": "recurring-billing-contract-renewal-invoice-checklist",
+    "title": "Recurring Billing Controls: Keep Contract Renewals and Invoices Aligned",
+    "category": "Customer Billing",
+    "read": "7 min",
+    "description": "A practical control checklist for contract renewals, recurring invoices, billing changes, and customer balance follow-up."
   }
 ]
