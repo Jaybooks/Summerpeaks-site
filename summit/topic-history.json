@@ -1,0 +1,375 @@
+{
+  "policy": "Audit the complete published Summit catalogue before choosing a new article. A rewrite, new title, new university source or narrower angle does not make a previously covered substantive topic new.",
+  "audit_completed_through_article": 60,
+  "audit_completed_through_date": "2026-10-28",
+  "published_topics": [
+    {
+      "number": 1,
+      "slug": "accounting-workflow-automation",
+      "category": "Automation",
+      "title": "How to Automate Your Accounting Workflow Without Losing Control"
+    },
+    {
+      "number": 2,
+      "slug": "outsourced-bookkeeping-cost",
+      "category": "Bookkeeping",
+      "title": "How Much Does Outsourced Bookkeeping Really Cost?"
+    },
+    {
+      "number": 3,
+      "slug": "bookkeeping-tasks-stop-doing-manually",
+      "category": "Bookkeeping",
+      "title": "7 Bookkeeping Tasks Small Businesses Should Stop Doing Manually"
+    },
+    {
+      "number": 4,
+      "slug": "accounts-receivable-process",
+      "category": "Accounting",
+      "title": "Build an Accounts Receivable Process That Gets You Paid Faster"
+    },
+    {
+      "number": 5,
+      "slug": "small-business-financial-reports",
+      "category": "Reporting",
+      "title": "The Financial Reports a Small Business Should Actually Review"
+    },
+    {
+      "number": 6,
+      "slug": "business-process-automation",
+      "category": "Business Process",
+      "title": "Business Process Automation: What to Automate First"
+    },
+    {
+      "number": 7,
+      "slug": "13-week-cash-flow-forecast-small-business",
+      "category": "Cash Flow",
+      "title": "Build a 13-Week Cash Flow Forecast for a Small Business"
+    },
+    {
+      "number": 8,
+      "slug": "what-business-owners-need-from-accountant-accounting-system",
+      "category": "Management Accounting",
+      "title": "What Business Owners Need From an Accountant and Accounting System"
+    },
+    {
+      "number": 9,
+      "slug": "100-ways-small-businesses-lose-money",
+      "category": "Profitability",
+      "title": "100 Ways Small Businesses Lose Money Without Realizing It"
+    },
+    {
+      "number": 10,
+      "slug": "sports-card-inventory-accounting-methods",
+      "category": "Industry Accounting",
+      "title": "Sports Card Inventory Accounting: How to Choose the Right Inventory Method"
+    },
+    {
+      "number": 11,
+      "slug": "do-i-need-a-bookkeeper-signs",
+      "category": "Bookkeeping",
+      "title": "Do I Need a Bookkeeper? 9 Signs Your Business Has Outgrown DIY Bookkeeping"
+    },
+    {
+      "number": 12,
+      "slug": "what-should-monthly-bookkeeping-include",
+      "category": "Bookkeeping",
+      "title": "What Should Monthly Bookkeeping Include? A Business Owner’s Checklist"
+    },
+    {
+      "number": 13,
+      "slug": "bookkeeping-cleanup-signs-process",
+      "category": "Cleanup",
+      "title": "Bookkeeping Cleanup: How to Know When Your Books Need to Be Fixed"
+    },
+    {
+      "number": 14,
+      "slug": "profit-vs-cash-flow-small-business",
+      "category": "Cash Flow",
+      "title": "Profit vs. Cash Flow: Why a Profitable Business Can Still Run Short on Cash"
+    },
+    {
+      "number": 15,
+      "slug": "how-to-switch-bookkeepers",
+      "category": "Bookkeeping",
+      "title": "How to Switch Bookkeepers Without Losing Control of Your Financial Records"
+    },
+    {
+      "number": 16,
+      "slug": "get-books-ready-for-tax-filing",
+      "category": "Tax Readiness",
+      "title": "How to Get Your Books Ready for Tax Filing: A Small Business Checklist"
+    },
+    {
+      "number": 17,
+      "slug": "tax-extension-payment-filing-deadlines",
+      "category": "Tax Readiness",
+      "title": "Tax Extensions: When to File, Pay, and Finish the Return"
+    },
+    {
+      "number": 18,
+      "slug": "purchase-orders-three-way-matching",
+      "category": "Business Process",
+      "title": "Purchase Orders and Three-Way Matching: When to Use Them and How"
+    },
+    {
+      "number": 19,
+      "slug": "verify-vendor-bank-detail-changes",
+      "category": "Business Process",
+      "title": "How to Verify Vendor Bank-Detail Changes Before Paying an Invoice"
+    },
+    {
+      "number": 20,
+      "slug": "monthly-bank-reconciliation-small-business",
+      "category": "Bookkeeping",
+      "title": "How to Reconcile a Business Bank Account Each Month"
+    },
+    {
+      "number": 21,
+      "slug": "accounts-payable-aging-report-small-business",
+      "category": "Cash Flow",
+      "title": "Accounts Payable Aging Report: How to Use It to Manage Cash and Vendor Bills"
+    },
+    {
+      "number": 22,
+      "slug": "small-business-record-retention-guide",
+      "category": "Bookkeeping",
+      "title": "Small Business Record Retention: What to Keep and Why"
+    },
+    {
+      "number": 23,
+      "slug": "fixed-asset-accounting-small-business",
+      "category": "Accounting",
+      "title": "Fixed Asset Accounting for Small Business: A Practical Guide"
+    },
+    {
+      "number": 24,
+      "slug": "sales-tax-filing-small-business",
+      "category": "Tax Readiness",
+      "title": "Sales Tax Filing for Small Business: A Practical Guide"
+    },
+    {
+      "number": 25,
+      "slug": "customer-deposits-bookkeeping-small-business",
+      "category": "Bookkeeping",
+      "title": "Customer Deposits and Advance Payments: A Small Business Bookkeeping Guide"
+    },
+    {
+      "number": 26,
+      "slug": "vendor-statement-reconciliation",
+      "category": "Accounts Payable",
+      "title": "Vendor Statement Reconciliation: A Practical Accounts Payable Guide"
+    },
+    {
+      "number": 27,
+      "slug": "month-end-close-checklist-small-business",
+      "category": "Bookkeeping",
+      "title": "Month-End Close Checklist for Small Businesses"
+    },
+    {
+      "number": 28,
+      "slug": "future-of-small-business-accounting-outsourcing",
+      "category": "Accounting",
+      "title": "The Future of Small-Business Accounting: What to Keep In-House and What to Outsource"
+    },
+    {
+      "number": 29,
+      "slug": "accounting-audit-trail-business-transactions",
+      "category": "Bookkeeping",
+      "title": "How to Build a Clean Accounting Audit Trail for Business Transactions"
+    },
+    {
+      "number": 30,
+      "slug": "small-business-kpis-what-to-track",
+      "category": "Reporting",
+      "title": "Small Business KPIs: What to Track and How to Use Them"
+    },
+    {
+      "number": 31,
+      "slug": "how-to-read-a-small-business-balance-sheet",
+      "category": "Reporting",
+      "title": "How to Read a Small Business Balance Sheet"
+    },
+    {
+      "number": 32,
+      "slug": "owner-draws-contributions-bookkeeping",
+      "category": "Bookkeeping",
+      "title": "Owner Draws and Contributions: Keep Them Out of Operating Results"
+    },
+    {
+      "number": 33,
+      "slug": "chart-of-accounts-small-business-review",
+      "category": "Bookkeeping",
+      "title": "A Chart of Accounts Your Small Business Can Actually Use"
+    },
+    {
+      "number": 34,
+      "slug": "break-even-sales-contribution-margin-small-business",
+      "category": "Cost Accounting",
+      "title": "How Many Sales Does Your Small Business Need to Break Even?"
+    },
+    {
+      "number": 35,
+      "slug": "unapplied-customer-payments-invoice-matching",
+      "category": "Accounts Receivable",
+      "title": "Customer Paid, Invoice Still Open? Review Unapplied Payments"
+    },
+    {
+      "number": 36,
+      "slug": "prepaid-expenses-monthly-schedule-small-business",
+      "category": "Bookkeeping",
+      "title": "Prepaid Expenses: Build a Monthly Schedule That Stays Accurate"
+    },
+    {
+      "number": 37,
+      "slug": "business-credit-card-reconciliation-checklist",
+      "category": "Bookkeeping",
+      "title": "Business Credit Card Reconciliation: Match Charges, Receipts and Payments"
+    },
+    {
+      "number": 38,
+      "slug": "accrued-expenses-month-end-small-business",
+      "category": "Accounting",
+      "title": "Accrued Expenses: A Practical Month-End Review for Small Businesses"
+    },
+    {
+      "number": 39,
+      "slug": "petty-cash-fund-count-replenish-small-business",
+      "category": "Accounting",
+      "title": "Petty Cash: Keep a Small Business Cash Fund Accountable"
+    },
+    {
+      "number": 40,
+      "slug": "foreign-currency-invoices-payments-exchange-differences",
+      "category": "Accounting",
+      "title": "Foreign Currency Invoices: Explain the Difference When Payment Arrives"
+    },
+    {
+      "number": 41,
+      "slug": "physical-inventory-count-differences-adjustments",
+      "category": "Accounting",
+      "title": "Physical Inventory Counts: Turn Differences Into Documented Adjustments"
+    },
+    {
+      "number": 42,
+      "slug": "daily-sales-reconciliation-receipts-deposits",
+      "category": "Accounting",
+      "title": "Daily Sales Reconciliation: Connect Receipts, Deposits and the General Ledger"
+    },
+    {
+      "number": 43,
+      "slug": "employee-expense-reimbursements-receipts-approval",
+      "category": "Accounting",
+      "title": "Employee Expense Reimbursements: From Receipt to Approved Payment"
+    },
+    {
+      "number": 44,
+      "slug": "purchase-discounts-payment-terms-small-business",
+      "category": "Accounts Payable",
+      "title": "Purchase Discounts: Decide, Record and Reconcile Them Correctly"
+    },
+    {
+      "number": 45,
+      "slug": "job-costing-estimate-actual-project-review",
+      "category": "Cost Accounting",
+      "title": "Job Costing: Compare the Estimate With What the Work Actually Cost"
+    },
+    {
+      "number": 46,
+      "slug": "allowance-doubtful-accounts-small-business",
+      "category": "Accounts Receivable",
+      "title": "Allowance for Doubtful Accounts: Estimate What Customers May Not Pay"
+    },
+    {
+      "number": 47,
+      "slug": "small-business-accounting-controls-one-person",
+      "category": "Internal Controls",
+      "title": "Small Business Accounting Controls When One Person Does the Books"
+    },
+    {
+      "number": 48,
+      "slug": "nonprofit-vs-for-profit-accounting",
+      "category": "Nonprofit Accounting",
+      "title": "Nonprofit vs. For-Profit Accounting: Key Differences"
+    },
+    {
+      "number": 49,
+      "slug": "business-loan-payments-principal-interest",
+      "category": "Bookkeeping",
+      "title": "Business Loan Payments: Separate Principal From Interest"
+    },
+    {
+      "number": 50,
+      "slug": "payroll-reconciliation-register-payments-liabilities",
+      "category": "Payroll Accounting",
+      "title": "Payroll Reconciliation: Match the Register, Payments and Liabilities"
+    },
+    {
+      "number": 51,
+      "slug": "intercompany-balances-business-pays-another",
+      "category": "Multi-Entity Accounting",
+      "title": "Intercompany Balances: When One Business Pays for Another"
+    },
+    {
+      "number": 52,
+      "slug": "lease-register-equipment-rental-agreements",
+      "category": "Lease Administration",
+      "title": "Lease Register: Keep Equipment and Rental Agreements Visible"
+    },
+    {
+      "number": 53,
+      "slug": "customer-credit-memos-invoice-adjustments",
+      "category": "Accounts Receivable",
+      "title": "Customer Credit Memos: Correct the Invoice, Preserve the Record"
+    },
+    {
+      "number": 54,
+      "slug": "vendor-onboarding-w9-bank-details-controls",
+      "category": "Accounts Payable",
+      "title": "Vendor Onboarding: Verify Details Before the First Payment"
+    },
+    {
+      "number": 55,
+      "slug": "payment-processor-payouts-gross-sales-fees-reconciliation",
+      "category": "Bookkeeping",
+      "title": "Payment Processor Payouts: Reconcile Sales, Fees and Bank Deposits"
+    },
+    {
+      "number": 56,
+      "slug": "outstanding-checks-stale-payments-follow-up",
+      "category": "Cash Controls",
+      "title": "Outstanding Checks: What to Do When a Payment Never Clears"
+    },
+    {
+      "number": 57,
+      "slug": "gift-card-sales-redemptions-unearned-revenue",
+      "category": "Revenue Accounting",
+      "title": "Gift Card Accounting: Track Sales, Redemptions and Unused Balances"
+    },
+    {
+      "number": 58,
+      "slug": "sales-tax-payable-reconcile-before-filing",
+      "category": "Sales Tax Accounting",
+      "title": "Sales Tax Payable: Reconcile Before Filing"
+    },
+    {
+      "number": 59,
+      "slug": "vendor-statements-reconcile-ap-missing-bills",
+      "category": "Accounts Payable",
+      "title": "Vendor Statement Reconciliation: Find Missing Bills Before Paying Twice"
+    },
+    {
+      "number": 60,
+      "slug": "recurring-billing-contract-renewal-invoice-checklist",
+      "category": "Customer Billing",
+      "title": "Recurring Billing Controls: Keep Contract Renewals and Invoices Aligned"
+    }
+  ],
+  "known_topic_reuse_exceptions": [
+    {
+      "earlier_article": 26,
+      "later_article": 59,
+      "substantive_topic": "Vendor statement reconciliation",
+      "issue": "Article 59 repeats the substantive topic of article 26."
+    }
+  ]
+}
