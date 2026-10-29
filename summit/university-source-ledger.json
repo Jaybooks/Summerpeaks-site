@@ -183,6 +183,13 @@
             "https://controller.berkeley.edu/financial-operations/cash-handling-and-banking-services/bank-deposit-handling-and-recording",
             "https://www.ucop.edu/ethics-compliance-audit-services/audit/resources/internal-controls-quiz.html"
           ]
+        },
+        {
+          "date": "2026-10-27",
+          "slug": "vendor-statements-reconcile-ap-missing-bills",
+          "source_urls": [
+            "https://financeandbusiness.ucdavis.edu/finance/controls-accountability/int-controls/practices/ap"
+          ]
         }
       ]
     },
@@ -292,6 +299,13 @@
           "source_urls": [
             "https://finance.uw.edu/uco/financial-reporting/glarp-general-ledger-reconciliation-process"
           ]
+        },
+        {
+          "date": "2026-10-26",
+          "slug": "sales-tax-payable-reconcile-before-filing",
+          "source_urls": [
+            "https://finance.uw.edu/ps/reporting-tools/tools-reconciling/sales-and-use-tax"
+          ]
         }
       ]
     },
@@ -340,6 +354,129 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Emory University",
+      "domains": [
+        "emory.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-22",
+          "slug": "vendor-onboarding-w9-bank-details-controls",
+          "source_urls": [
+            "https://finance.emory.edu/home/accounting/accounts-payable.html"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "University of Kentucky",
+      "domains": [
+        "uky.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-23",
+          "slug": "payment-processor-payouts-gross-sales-fees-reconciliation",
+          "source_urls": [
+            "https://ufs.uky.edu/merchant-card-services"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "University of Arkansas – Pulaski Technical College",
+      "domains": [
+        "uaptc.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-24",
+          "slug": "outstanding-checks-stale-payments-follow-up",
+          "source_urls": [
+            "https://mediaserver.uaptc.edu/policies/300-Business-and-IT/306-ua-ptc-policy-bank-reconciliation-and-outstanding-checks.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Florida A&M University",
+      "domains": [
+        "famu.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-24",
+          "slug": "outstanding-checks-stale-payments-follow-up",
+          "source_urls": [
+            "https://www.famu.edu/administration/division-of-finance-and-administration/office-of-the-controller/pdf/Bank-Reconcilation-Procedures.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "University of Minnesota",
+      "domains": [
+        "umn.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-25",
+          "slug": "gift-card-sales-redemptions-unearned-revenue",
+          "source_urls": [
+            "https://policy.umn.edu/finance/generalaccounting-proc01"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "University of Illinois",
+      "domains": [
+        "uillinois.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-25",
+          "slug": "gift-card-sales-redemptions-unearned-revenue",
+          "source_urls": [
+            "https://www.busfin.uillinois.edu/bfpp/section-21-merchant-cards/report-expired-unredeemed-gift-cards-certificates"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "University of Toledo",
+      "domains": [
+        "utoledo.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-10-27",
+          "slug": "vendor-statements-reconcile-ap-missing-bills",
+          "source_urls": [
+            "https://www.utoledo.edu/offices/internalaudit/pdfs/10-6processaccountspayable.pdf"
+          ]
+        }
+      ]
+    }
+  ],
+  "audit_completed_through": "2026-10-28",
+  "source_rotation_exceptions": [
+    {
+      "date": "2026-10-26",
+      "slug": "sales-tax-payable-reconcile-before-filing",
+      "issue": "University of Washington was reused after the 2026-10-18 payroll reconciliation article."
+    },
+    {
+      "date": "2026-10-27",
+      "slug": "vendor-statements-reconcile-ap-missing-bills",
+      "issue": "University of California was reused through UC Davis after the 2026-10-10 UC system article."
+    },
+    {
+      "date": "2026-10-28",
+      "slug": "recurring-billing-contract-renewal-invoice-checklist",
+      "issue": "No university source was present in the published article."
     }
   ]
 }
