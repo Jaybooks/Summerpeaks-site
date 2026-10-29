@@ -478,5 +478,13 @@
     "category": "Customer Billing",
     "read": "7 min",
     "description": "A practical control checklist for contract renewals, recurring invoices, billing changes, and customer balance follow-up."
+  },
+  {
+    "num": "61",
+    "slug": "vendor-credits-apply-supplier-credit-memos",
+    "title": "Vendor Credits: Apply Supplier Credit Memos Without Losing Track",
+    "category": "Accounts Payable",
+    "read": "7 min",
+    "description": "A practical accounts payable process for recording supplier credits, matching them to open bills, and reconciling unused balances."
   }
 ]
