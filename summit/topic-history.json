@@ -1,7 +1,7 @@
 {
   "policy": "Audit the complete published Summit catalogue before choosing a new article. A rewrite, new title, new university source or narrower angle does not make a previously covered substantive topic new.",
-  "audit_completed_through_article": 60,
-  "audit_completed_through_date": "2026-10-28",
+  "audit_completed_through_article": 61,
+  "audit_completed_through_date": "2026-10-29",
   "published_topics": [
     {
       "number": 1,
@@ -362,6 +362,12 @@
       "slug": "recurring-billing-contract-renewal-invoice-checklist",
       "category": "Customer Billing",
       "title": "Recurring Billing Controls: Keep Contract Renewals and Invoices Aligned"
+    },
+    {
+      "number": 61,
+      "slug": "vendor-credits-apply-supplier-credit-memos",
+      "category": "Accounts Payable",
+      "title": "Vendor Credits: Apply Supplier Credit Memos Without Losing Track"
     }
   ],
   "known_topic_reuse_exceptions": [
