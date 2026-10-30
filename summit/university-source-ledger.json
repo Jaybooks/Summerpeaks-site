@@ -461,7 +461,7 @@
       ]
     }
   ],
-  "audit_completed_through": "2026-10-28",
+  "audit_completed_through": "2026-10-29",
   "source_rotation_exceptions": [
     {
       "date": "2026-10-26",
@@ -476,6 +476,11 @@
     {
       "date": "2026-10-28",
       "slug": "recurring-billing-contract-renewal-invoice-checklist",
+      "issue": "No university source was present in the published article."
+    },
+    {
+      "date": "2026-10-29",
+      "slug": "vendor-credits-apply-supplier-credit-memos",
       "issue": "No university source was present in the published article."
     }
   ]
