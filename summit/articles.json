@@ -486,5 +486,13 @@
     "category": "Accounts Payable",
     "read": "7 min",
     "description": "A practical accounts payable process for recording supplier credits, matching them to open bills, and reconciling unused balances."
+  },
+  {
+    "num": "62",
+    "slug": "consignment-inventory-accounting",
+    "title": "Consignment Inventory: Track Stock Held by Someone Else",
+    "category": "Inventory Accounting",
+    "read": "5 min",
+    "description": "Track consigned units by location, reconcile sales and payouts, and keep unsold goods visible in your inventory records."
   }
 ]
