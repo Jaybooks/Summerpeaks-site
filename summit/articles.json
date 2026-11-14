@@ -490,9 +490,9 @@
   {
     "num": "62",
     "slug": "consignment-inventory-accounting",
-    "title": "Consignment Inventory: Track Stock Held by Someone Else",
-    "category": "Inventory Accounting",
+    "title": "How to Allocate Shared Equipment Costs Across Teams",
+    "category": "Cost Accounting",
     "read": "5 min",
-    "description": "Track consigned units by location, reconcile sales and payouts, and keep unsold goods visible in your inventory records."
+    "description": "Build an internal equipment rate, allocate costs by actual usage, and reconcile the difference at month-end."
   }
 ]
