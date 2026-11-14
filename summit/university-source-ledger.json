@@ -459,9 +459,24 @@
           ]
         }
       ]
+    },
+    {
+      "name": "University of Puerto Rico",
+      "domains": [
+        "uprrp.edu"
+      ],
+      "published_articles": [
+        {
+          "date": "2026-11-14",
+          "slug": "consignment-inventory-accounting",
+          "source_urls": [
+            "https://fae.uprrp.edu/contabilidad/wp-content/uploads/sites/18/2023/08/MODULE-7-CONT-3105-CURRENT-ASSETS-INVENTORY.pdf"
+          ]
+        }
+      ]
     }
   ],
-  "audit_completed_through": "2026-10-29",
+  "audit_completed_through": "2026-11-14",
   "source_rotation_exceptions": [
     {
       "date": "2026-10-26",
